@@ -8,303 +8,279 @@ A collection of the most interesting and impactful data journalism projects from
 
 ## Contents
 
-- [Education](#education)
-- [Politics](#politics)
-- [City & Urban](#city--urban)
-- [Infrastructure](#infrastructure)
-- [Environment](#environment)
-- [Technology](#technology)
-- [Sports](#sports)
+- [DIE ZEIT](#die-zeit)
+- [DER SPIEGEL](#der-spiegel)
+- [Der Tagesspiegel](#der-tagesspiegel)
+- [Berliner Morgenpost](#berliner-morgenpost)
+- [Süddeutsche Zeitung](#süddeutsche-zeitung)
+- [FragDenStaat](#fragdenstaat)
+- [Le Monde](#le-monde)
 
-## Education
-
-### [An welchen Berliner Schulen gibt es die besten Abiturnoten?](https://interaktiv.tagesspiegel.de/lab/zwischen-eins-komma-null-und-knapp-bestanden-wo-berliner-schueler-ihr-abitur-machen/)
-
-**Der Tagesspiegel** · September 2025
-
-Die interaktive Grafik des Tagesspiegels zeigt alle weiterführenden Schulen Berlins auf einer Karte, farblich kodiert nach durchschnittlicher Abiturnote und Durchfallquote, mit Filtern nach Schulform und Suchfunktion nach Adresse oder Schulname.
-
-### [Die Berliner Klassenfrage 2025: Hier fehlen die meisten Lehrkräfte – Schule für Schule](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-2025-hier-fehlen-am-meisten-lehrkraefte-datenanalyse-und-interakive-karte/)
-
-**Der Tagesspiegel** · März 2025
-
-Interaktive Karte und Schulprofile, die für jede Berliner Schule Lehrkräftemangel, Vertretungsquoten und Schüler-Lehrer-Relation ausweisen; filterbar nach Bezirk und Schulart, mit direkter Vergleichsfunktion.
-
-## Politics
-
-### [Das gespaltene Parlament](https://www.sueddeutsche.de/projekte/artikel/politik/die-afd-im-bundestag-e362724/)
-
-**Süddeutsche Zeitung** · August 2019
-
-Die datenjournalistische SZ-Analyse wertet systematisch rund 1.500 Redebeiträge und offizielle Plenarprotokolle aus, quantifiziert Häufigkeit und Richtung von Lachen, Applaus und Zwischenrufen je Fraktion und visualisiert diese in interaktiven Grafiken. So zeigt sie, wie die AfD mit synchronem Klatschen, aggressivem Lachen und massenhaften Unterbrechungen gezielt Spaltung erzeugt und das Debattenklima prägt.
+## DIE ZEIT
 
 ### [Die Millionen, die gingen](https://www.zeit.de/politik/deutschland/2019-05/ost-west-wanderung-abwanderung-ostdeutschland-umzug)
 
-**DIE ZEIT** · Februar 2019
+**2019**
 
 Langzeitvisualisierung zur Abwanderung aus Mittel- und Osteuropa seit den 1990er/2000er-Jahren: Karten und Diagramme zeigen, welche Regionen besonders viele Menschen verloren, welche Städte profitierten und welche Folgen das für Demografie und Arbeitsmarkt hat.
 
-### [Todesopfer rechter Gewalt: Wieso fehlen 86 Tote in den Zahlen?](https://www.zeit.de/gesellschaft/2025-07/todesopfer-rechter-gewalt-faelle-statistik-personen) 🔒
+### [Straßenbilder – Mozart, Marx und ein Diktator](https://www.zeit.de/feature/strassenverzeichnis-strassennamen-herkunft-deutschland-infografik)
 
-**DIE ZEIT** · Juli 2025 · **Paywall (Z+)**
+**2018**
 
-Langzeitdatensatz und Visualisierungen zu Todesopfern rechter Gewalt seit 1990; Abgleich offizieller Statistiken mit Recherchen von Zivilgesellschaft und Medien deckt systematische Erfassungslücken auf.
+ZEIT ONLINE hat rund 450.000 deutsche Straßennamen aus OpenStreetMap in einer durchsuchbaren Datenbank und interaktiven Karte zusammengeführt, um großflächige Muster – von Baum‑ und Vogelvierteln über Komponisten‑ und Dichterstraßen bis hin zu Relikten sozialistischer und nationalsozialistischer Ideologien – sichtbar zu machen.
 
-## City & Urban
+### [Wir schalten ab, sie heizen hoch](https://www.zeit.de/wirtschaft/2021-12/kohlekraftwerke-co2-emissionen-kohlestrom-klimawandel)
 
-### [Berliner Hausnummern: Zickzack verdrängt Hufeisen](https://hausnummern.tagesspiegel.de/)
+**Dezember 2021**
 
-**Der Tagesspiegel** · Oktober 2016
+Interaktive Weltkarte zu Kohlekraftwerken mit Status (geplant, im Bau, in Betrieb, stillgelegt) und installierter Leistung; zeigt, wie der deutsche Ausstieg kontrastiert mit Neubau- und Ausbauplänen in anderen Weltregionen.
 
-Die interaktive Karte zeigt Berlins Straßennetz farbcodiert nach dem Nummerierungsschema: rote Linien markieren Hufeisen‑verlaufende Hausnummern, blaue Linien den Zickzack‑Modus.
+### [Nutzung der Meere: Wo dunkle Flotten die Ozeane ausbeuten](https://www.zeit.de/wissen/2024-01/nutzung-meere-fischerei-oelfrachter-transportschiffe)
 
-### [Berlin 1928 und heute](https://1928.tagesspiegel.de/)
+**Januar 2024**
 
-**Der Tagesspiegel**
+Satelliten-/AIS-Daten machen die „unsichtbare" Nutzung der Meere sichtbar – von industrieller Fischerei über Tanker bis Eingriffe in Schutzgebiete; zeigt Machtverschiebungen und Regulierungslücken.
 
-Zeitreise-Visualisierung mit historischen Karten/Luftbildern im Vergleich zu heutigen Satellitenaufnahmen; per Schieberegler lassen sich Stadterweiterung, Nachkriegsumbau und dichte Neubauquartiere quartiergenau erkunden.
+### [Lärm in deutschen Städten: Wo Lärm krank macht](https://www.zeit.de/mobilitaet/2024-02/laerm-deutsche-staedte-schlafen-gesundheit-daten) 🔒
 
-### [Berlin 1953 vs. heute](https://interaktiv.morgenpost.de/berlin-1953-2016/)
+**Februar 2024 · Paywall (Z+)**
 
-**Berliner Morgenpost**
+Hausblock-genaue Lärmbelastung in 55 deutschen Städten; interaktive Karte zeigt Dezibel-Werte, Gesundheitsrisiken und stille Gebiete – mit Adresssuche und Vergleichsfunktion.
 
-Schieberegler-Vergleich historischer Luftaufnahmen mit aktuellen Orthofotos zeigt Wiederaufbau und Stadtentwicklung nach dem Krieg.
+### [Stromversorgung: So viel Sonnenenergie nutzt Ihr Ort](https://www.zeit.de/wissen/2024-09/solarenergie-stromversorgung-photovoltaik-solarmodule-sonnenstunden)
 
-### [So alt wohnt Berlin](https://interaktiv.morgenpost.de/so-alt-wohnt-berlin/)
+**September 2024**
 
-**Berliner Morgenpost**
-
-Karte zeigt Baualtersstruktur bis auf Block-Ebene – von Gründerzeit über Plattenbau bis zu modernen Neubauten.
-
-### [So tickt Berlin an deiner Linie](https://interaktiv.morgenpost.de/berlin-an-deiner-linie/)
-
-**Berliner Morgenpost**
-
-Entlang BVG/S-Bahn-Linien werden Sozialindikatoren (Alter, Einkommen, Demografie) vergleichbar – ein Stadtsoziologie-Blick entlang der Strecken.
-
-### [Demo-Atlas Berlin: Wofür wird in meiner Nachbarschaft demonstriert?](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/)
-
-**Der Tagesspiegel**
-
-Karte und Timeline aller gemeldeten Versammlungen mit Filter nach Thema, Ort, Route und Zeitraum; Heatmaps und Kiezzuschnitte zeigen lokale Protestschwerpunkte.
-
-### [Demo-Hauptstadt Berlin](https://fragdenstaat.de/dossier/demo-hauptstadt-berlin/)
-
-**FragDenStaat**
-
-Auf offenen Daten basierende Übersicht zu Demonstrationen in Berlin; aus IFG-Anfragen zusammengetragene Termine, Orte und Veranstalter als Karte und Datensatz mit Download-Option.
-
-### [Die Profiteure des Todesstreifens](https://interaktiv.tagesspiegel.de/lab/35-jahre-mauerfall-die-profiteure-des-todesstreifen/)
-
-**Der Tagesspiegel**
-
-Recherche-Karte entlang des früheren Mauerstreifens: zeigt Flurstücke, Eigentümerwechsel und heutige Bau- und Verkaufsprojekte – und wie Bodenwertgewinne auf ehemals staatlichem Gelände realisiert wurden.
-
-### [Eine Karte aller Berliner Mieterinitiativen und Beratungsstellen](https://digitalpresent.tagesspiegel.de/kontraste/berliner_mieterinitiativen/)
-
-**Der Tagesspiegel**
-
-Punktekarte mit Such- und Filterfunktionen, die Mieterinitiativen, Beratungsstellen und Anlaufpunkte nach Bezirk und Thema sichtbar macht – inklusive Kontaktinfos und Verlinkungen.
-
-### [Mietkarte Berlin – Welche Kieze sind (noch) bezahlbar?](https://interaktiv.morgenpost.de/mietkarte-berlin/)
-
-**Berliner Morgenpost**
-
-Schätzt den Mietkostenanteil pro PLZ und Wohnungsgröße; deckt „rote Zonen" der Überlastung auf.
-
-### [Berliner Mieten seit 2009](https://interaktiv.morgenpost.de/berlinmieten/)
-
-**Berliner Morgenpost**
-
-Zeitreihen und Karten zeigen, wo sich Preise verdoppelt haben – feinräumig und verlässlich dokumentiert seit 2009.
-
-### [Lärmkarte Berlin – So laut ist es vor Ihrer Haustür](https://interaktiv.morgenpost.de/laermkarte-berlin/)
-
-**Berliner Morgenpost**
-
-Adressgenaue Pegelkarte zeigt Belastung an Fassaden; nützlich für Wohnungssuche und Stadtplanung.
-
-### [Alle Kleingärten Berlins – und was dort entstehen könnte](https://interaktiv.tagesspiegel.de/lab/alle-kleingaerten-berlins-auf-einer-karte-und-wie-viele-wohnungen-dort-stehen-koennten/)
-
-**Der Tagesspiegel**
-
-Zeigt Kolonien mit Status, Flächen und Parzellen – macht Nutzungskonflikte zwischen Stadtgrün und Wohnungsbau quantifizierbar.
-
-### [Kühle Orte in Berlin](https://interaktiv.tagesspiegel.de/lab/berlins-coolste-orte-in-diesen-nachbarschaften-laesst-es-sich-trotz-rekord-hitze-aushalten/)
-
-**Der Tagesspiegel**
-
-Stündlich aktualisierte Karte zeigt bei Hitzewellen, wo es am erträglichsten ist (Schatten, Wind, Wasser, Parks).
-
-### [Partez en vacances à l'étranger sans quitter l'Hexagone avec notre carte des villes homonymes](https://www.lemonde.fr/les-decodeurs/article/2023/07/10/partez-en-vacances-a-l-etranger-sans-quitter-l-hexagone-avec-notre-carte-des-villes-homonymes_6181306_4355770.html)
-
-**Le Monde** · Juli 2023
-
-Verspielte, datengetriebene Karte gleichnamiger Städte/Gemeinden in Frankreich: per Suche und Zoom navigierbar, um »Reisen« zu Namensvettern quer durchs Land zu inszenieren.
-
-### [Fahrraddiebstahl in Berlin](https://interaktiv.tagesspiegel.de/lab/berlins-fahrraddiebstahl-hotspots-in-diesen-kiezen-steht-ihr-rad-besonders-gefaehrlich/index_paid.html) 🔒
-
-**Der Tagesspiegel** · **Paywall (Tagesspiegel Plus)**
-
-Heatmap und Zeitreihenanalyse zeigen Diebstahl-Hotspots nach Kiez, Tageszeit und Fahrradtyp; interaktive Karte mit Suchfunktion für die eigene Adresse.
+Deutschlandkarte zum Photovoltaik-Ausbau bis auf Gemeindeebene; zeigt regionale Unterschiede, Ausbaupotenziale und Sonnenstunden im Vergleich.
 
 ### [Wo soll ich wohnen?](https://www.zeit.de/zeit-magazin/2024-09/wohnorte-deutschland-lebensqualitaet-versorgung-infrastruktur) 🔒
 
-**DIE ZEIT** · September 2024 · **Paywall (Z+)**
+**September 2024 · Paywall (Z+)**
 
 Interaktives Tool findet passende Wohnorte in Deutschland nach individuellen Kriterien (Mieten, Infrastruktur, Demografie, Klima); Vergleichsfunktion für Städte und Landkreise.
 
 ### [Welcher Stadtteil passt zu mir?](https://www.zeit.de/zeit-magazin/2025-06/stadtteile-grossstaedte-wohnen-deutschland-lebensqualitaet) 🔒
 
-**DIE ZEIT** · Juni 2025 · **Paywall (Z+)**
+**Juni 2025 · Paywall (Z+)**
 
 Durchsucht rund 3.000 Stadtteile in 79 Großstädten nach individuellen Präferenzen (Preise, Erreichbarkeit, Umfeld); zeigt profilierte Vergleiche und Alternativen.
 
-### [Wie lebenswert ist mein Kiez?](https://interaktiv.tagesspiegel.de/lab/gruenflaechen-laerm-luftverschmutzung-wie-lebenswert-ist-mein-kiez-in-berlin/index_paid.html) 🔒
+### [Todesopfer rechter Gewalt: Wieso fehlen 86 Tote in den Zahlen?](https://www.zeit.de/gesellschaft/2025-07/todesopfer-rechter-gewalt-faelle-statistik-personen) 🔒
 
-**Der Tagesspiegel** · **Paywall (Tagesspiegel Plus)**
+**Juli 2025 · Paywall (Z+)**
 
-Lebensqualitäts-Index für Berliner Kieze basierend auf Grünflächen, Lärm, Luftverschmutzung und Infrastruktur; Karte mit Vergleichsfunktion und Rankings.
-
-## Infrastructure
-
-### [Deutschlands marode Brücken](https://www.spiegel.de/wirtschaft/infrastruktur-wie-marode-sind-deutschlands-autobahn-und-bundesstrassen-bruecken-a-b962de3a-43af-47d6-b63c-5842df7bbf9e)
-
-**DER SPIEGEL** · September 2024
-
-Der SPIEGEL-Artikel präsentiert eine interaktive Karte, die den Zustand von über 40.000 Autobahn‑ und Bundesstraßenbrücken in Deutschland farblich nach Zustandsnoten von „sehr gut" bis „ungenügend" darstellt.
-
-### [Straßenbilder – Mozart, Marx und ein Diktator](https://www.zeit.de/feature/strassenverzeichnis-strassennamen-herkunft-deutschland-infografik)
-
-**DIE ZEIT** · 2018
-
-ZEIT ONLINE hat rund 450.000 deutsche Straßennamen aus OpenStreetMap in einer durchsuchbaren Datenbank und interaktiven Karte zusammengeführt, um großflächige Muster – von Baum‑ und Vogelvierteln über Komponisten‑ und Dichterstraßen bis hin zu Relikten sozialistischer und nationalsozialistischer Ideologien – sichtbar zu machen.
-
-### [Der BER im 3D-Modell: Deswegen wurde 14 Jahre lang gebaut](https://interaktiv.tagesspiegel.de/lab/flughafen-ber-in-3d/)
-
-**Der Tagesspiegel**
-
-Scroll-Story mit WebGL-Modell des Flughafens BER: Bauphasen, Brandschutz- und Lüftungssysteme sowie Planungsfehler werden räumlich erklärt; eine Chronik erläutert, wie Verzögerungen und Nachbesserungen zusammenhängen.
-
-### [A short history of urban design in Germany](https://interactive.spiegel.de/int/pub/nextgen_migration/wissenschaft/2019/schwarzplan/v0/pub/index.html)
-
-**DER SPIEGEL** · 2019
-
-Scrollytelling erzählt Stadtentwicklung in Deutschland über Karten und Pläne im Langformat – von Gründerzeit-Raster bis zur autogerechten Stadt.
-
-### [Pendeln in Deutschland – eine persönliche Geschichte](https://cdn.www.spiegel.de/producing/wirtschaft/2018/pendler/v1/pendler.html)
-
-**DER SPIEGEL** · 2018
-
-Scrollytelling mit personalisierter Ansicht zur eigenen Wohn-/Arbeitsrelation; zeigt Reichweiten, Belastungen und typische Pendelmuster mit Kontext zu Verkehr, Gesundheit und Infrastruktur.
-
-### [Geldautomaten: Wie sind sie in Deutschland verteilt?](https://www.spiegel.de/wirtschaft/service/geldautomaten-wie-sind-sie-in-deutschland-verteilt-a-1226430.html)
-
-**DER SPIEGEL**
-
-Karten und Kennzahlen zeigen Bargeld-Versorgungslücken, besonders in ländlichen Räumen nach Filialschließungen.
-
-### [EU-Agrarsubventionen in Deutschland](https://www.spiegel.de/wirtschaft/soziales/eu-subventionen-landwirtschaft-erklaerung-in-karten-a-1210055.html)
-
-**DER SPIEGEL**
-
-Macht transparent, wo EU-Fördergelder landen und welche Betriebe profitieren – inklusive regionaler Schwerpunkte und Verteilungsmuster.
+Langzeitdatensatz und Visualisierungen zu Todesopfern rechter Gewalt seit 1990; Abgleich offizieller Statistiken mit Recherchen von Zivilgesellschaft und Medien deckt systematische Erfassungslücken auf.
 
 ### [15-Minuten-Stadt: Wo in Deutschland die Wege am kürzesten sind](https://www.zeit.de/wirtschaft/2025-07/15-minuten-stadt-raumforschung-stadtplanung-alltagswege-daten) 🔒
 
-**DIE ZEIT** · Juli 2025 · **Paywall (Z+)**
+**Juli 2025 · Paywall (Z+)**
 
 Analyse der Alltagswege-Erreichbarkeit in deutschen Städten und Gemeinden; interaktive Karte zeigt, wo Supermärkte, Schulen, Ärzte und ÖPNV innerhalb von 15 Minuten zu Fuß oder per Rad erreichbar sind.
 
-## Environment
+## DER SPIEGEL
 
-### [Wir schalten ab, sie heizen hoch](https://www.zeit.de/wirtschaft/2021-12/kohlekraftwerke-co2-emissionen-kohlestrom-klimawandel)
+### [Pendeln in Deutschland – eine persönliche Geschichte](https://cdn.www.spiegel.de/producing/wirtschaft/2018/pendler/v1/pendler.html)
 
-**DIE ZEIT** · Dezember 2021
+**2018**
 
-Interaktive Weltkarte zu Kohlekraftwerken mit Status (geplant, im Bau, in Betrieb, stillgelegt) und installierter Leistung; zeigt, wie der deutsche Ausstieg kontrastiert mit Neubau- und Ausbauplänen in anderen Weltregionen.
+Scrollytelling mit personalisierter Ansicht zur eigenen Wohn-/Arbeitsrelation; zeigt Reichweiten, Belastungen und typische Pendelmuster mit Kontext zu Verkehr, Gesundheit und Infrastruktur.
 
-### [Sind die Temperaturen in Deutschland gerade normal?](https://interaktiv.tagesspiegel.de/lab/temperaturmonitor-wetter-vs-klima-sind-die-temperaturen-in-deutschland-gerade-normal/)
+### [A short history of urban design in Germany](https://interactive.spiegel.de/int/pub/nextgen_migration/wissenschaft/2019/schwarzplan/v0/pub/index.html)
 
-**Der Tagesspiegel**
+**2019**
 
-Tagesaktuelle Charts und Karten, die Temperatur-Anomalien gegenüber Klimareferenzzeiträumen vergleichen; auswählbar nach Ort/Bundesland mit Einordnung extremer Abweichungen.
+Scrollytelling erzählt Stadtentwicklung in Deutschland über Karten und Pläne im Langformat – von Gründerzeit-Raster bis zur autogerechten Stadt.
 
-### [Klimawandel: Wo unsere Erde unbewohnbar wird](https://interaktiv.morgenpost.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/)
+### [Warum wächst die Weltbevölkerung trotz sinkender Geburtenraten?](https://www.spiegel.de/gesundheit/schwangerschaft/warum-waechst-die-weltbevoelkerung-bei-sinkender-geburtenquote-a-1292974.html)
 
-**Berliner Morgenpost**
+Erklärt den demografischen „Trägheitseffekt" (Bevölkerungswelle) anhand Kohortenpyramiden und Regionen-Vergleichen.
 
-3D-Globus visualisiert Klimaszenarien bis 2100: tödliche Hitze, Meeresspiegelanstieg, Wasserknappheit und Stürme – nach Regionen und Zeithorizont filterbar mit IPCC-Daten.
+### [30 Jahre Mauerfall: Gesundheit in West und Ost](https://www.spiegel.de/gesundheit/diagnose/30-jahre-mauerfall-so-unterscheidet-sich-die-gesundheit-in-west-und-ost-a-1288102.html)
 
-### [Wetter heute vs. Klima](https://interaktiv.morgenpost.de/wetter-klima-vergleich-heute-klimawandel/)
+Visualisiert Ost-West-Unterschiede bei Lebenserwartung, Erkrankungen und Versorgung – mit Kontext zu Strukturwandel und Einkommen.
 
-**Berliner Morgenpost**
+### [Rekord-Sommer? Wie warm war 2019 vs. 2018](https://www.spiegel.de/wissenschaft/natur/wetter-daten-rekord-sommer-wie-warm-war-2019-im-vergleich-zu-2018-a-1280048.html)
 
-Tool zum Vergleich des aktuellen Wetters mit historischen Klimamitteln; zeigt Abweichungen bei Temperatur, Niederschlag und Sonnenstunden für deutsche Städte.
+Vergleicht Temperatur- und Hitzetage-Statistiken über Regionen und ordnet Wetterextreme historisch ein.
 
-### [Deutschlands grünste Großstädte](https://interaktiv.morgenpost.de/gruenste-staedte-deutschlands)
+### [Die besten Freistoßschützen – vier Jahre Bundesliga im Datenschnitt](https://www.spiegel.de/sport/fussball/bundesliga-die-besten-freistossschuetzen-in-der-datenanalyse-a-1281610.html)
 
-**Berliner Morgenpost**
+Modelliert Torwahrscheinlichkeiten und Effektivität von Standards für Teams/Spieler über mehrere Saisons.
 
-Vergleicht 79 Großstädte anhand Vegetations-Indizes aus Satellitenbildern – mit Detailansichten, Rankings und dokumentierter Methodik.
+### [Tempolimit: Wie viele Leben könnte es retten?](https://www.spiegel.de/auto/aktuell/tempolimit-koennte-jaehrlich-bis-zu-140-todesfaelle-verhindern-a-1254504.html)
 
-### [Nutzung der Meere: Wo dunkle Flotten die Ozeane ausbeuten](https://www.zeit.de/wissen/2024-01/nutzung-meere-fischerei-oelfrachter-transportschiffe)
-
-**DIE ZEIT** · Januar 2024
-
-Satelliten-/AIS-Daten machen die „unsichtbare" Nutzung der Meere sichtbar – von industrieller Fischerei über Tanker bis Eingriffe in Schutzgebiete; zeigt Machtverschiebungen und Regulierungslücken.
-
-### [Stromversorgung: So viel Sonnenenergie nutzt Ihr Ort](https://www.zeit.de/wissen/2024-09/solarenergie-stromversorgung-photovoltaik-solarmodule-sonnenstunden)
-
-**DIE ZEIT** · September 2024
-
-Deutschlandkarte zum Photovoltaik-Ausbau bis auf Gemeindeebene; zeigt regionale Unterschiede, Ausbaupotenziale und Sonnenstunden im Vergleich.
-
-### [Lärm in deutschen Städten: Wo Lärm krank macht](https://www.zeit.de/mobilitaet/2024-02/laerm-deutsche-staedte-schlafen-gesundheit-daten) 🔒
-
-**DIE ZEIT** · Februar 2024 · **Paywall (Z+)**
-
-Hausblock-genaue Lärmbelastung in 55 deutschen Städten; interaktive Karte zeigt Dezibel-Werte, Gesundheitsrisiken und stille Gebiete – mit Adresssuche und Vergleichsfunktion.
-
-## Technology
-
-### [In diesen Kiezen gibt es die meisten Autos](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/)
-
-**Der Tagesspiegel**
-
-Feinräumige Karte des Pkw-Bestands pro 1.000 Einwohner bis auf Kiez/Planungsraum-Ebene; Vergleich zwischen Bezirken, Trendansichten und Hinweise auf Parkdruck und Verkehrsbelastung.
-
-### [Radmesser – Überholabstände beim Radfahren vermessen](https://interaktiv.tagesspiegel.de/radmesser/)
-
-**Der Tagesspiegel**
-
-Mit Ultraschall-Sensoren erfassten Freiwillige rund 17.000 Überholmanöver; die Analyse zeigt, wo Radfahrende systematisch zu eng überholt werden und hat Debatten sowie Maßnahmen angestoßen.
-
-### [A100: So verändert der neue Abschnitt den Verkehr](https://interaktiv.tagesspiegel.de/lab/ein-monat-neuer-autobahn-abschnitt-so-veraendert-die-a100-den-verkehr-in-berlins-kiezen/)
-
-**Der Tagesspiegel**
-
-Vorher/Nachher-Analyse misst mit Floating-Car-Daten, wo Straßen schneller oder langsamer wurden – Gewerbegebiete profitieren, Wohnviertel verlieren.
-
-### [Staus in Deutschland – Karten der staureichsten Großstädte](https://www.spiegel.de/auto/staus-in-deutschland-karten-der-staureichsten-grossstaedte-a-87279e48-282a-48de-93d4-b8e4a708d670)
-
-**DER SPIEGEL**
-
-Interaktive Karten analysieren Verkehrsfluss und identifizieren Engpässe, wo Geschwindigkeiten systematisch einbrechen; nützlich für Stadtplanung und Pendler.
-
-## Sports
+Simulationen und Statistiken schätzen den Sicherheitsgewinn eines generellen Limits auf Autobahnen – mit Unsicherheiten und Szenarien.
 
 ### [Shotmaps – alle Torschüsse eines Spiels visualisiert](https://www.spiegel.de/sport/fussball/shotmaps-alle-torschuesse-eines-fussballspiels-visualisiert-a-1250728.html)
-
-**DER SPIEGEL**
 
 Automatisiert erzeugte Schusskarten visualisieren Qualität, Position und Zeitpunkte aller Abschlüsse – praktisch für Taktik- und Coaching-Analysen.
 
 ### [Freunde & Rivalen Ihres Lieblingsvereins](https://www.spiegel.de/sport/fussball/fussball-wer-sind-die-freunde-und-rivalen-ihres-lieblingsvereins-a-1219354.html)
 
-**DER SPIEGEL**
-
 Netzwerk-Grafik zeigt Fan-Sympathien und Rivalitäten zwischen Vereinen – interaktiv erkundbar, mit Überraschungen jenseits der „offiziellen" Derbys.
+
+### [EU-Agrarsubventionen in Deutschland](https://www.spiegel.de/wirtschaft/soziales/eu-subventionen-landwirtschaft-erklaerung-in-karten-a-1210055.html)
+
+Macht transparent, wo EU-Fördergelder landen und welche Betriebe profitieren – inklusive regionaler Schwerpunkte und Verteilungsmuster.
+
+### [Geldautomaten: Wie sind sie in Deutschland verteilt?](https://www.spiegel.de/wirtschaft/service/geldautomaten-wie-sind-sie-in-deutschland-verteilt-a-1226430.html)
+
+Karten und Kennzahlen zeigen Bargeld-Versorgungslücken, besonders in ländlichen Räumen nach Filialschließungen.
+
+### [SCHUFA: So funktioniert Deutschlands einflussreichste Auskunftei](https://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html)
+
+Erklärt Score-Entstehung, typische Einflussfaktoren und Fehlerquellen – mit Beispielen und Checklisten für Verbraucher:innen.
+
+### [Staus in Deutschland – Karten der staureichsten Großstädte](https://www.spiegel.de/auto/staus-in-deutschland-karten-der-staureichsten-grossstaedte-a-87279e48-282a-48de-93d4-b8e4a708d670)
+
+Interaktive Karten analysieren Verkehrsfluss und identifizieren Engpässe, wo Geschwindigkeiten systematisch einbrechen; nützlich für Stadtplanung und Pendler.
+
+### [Bundesliga-Finanzen: Warum Bayern auch Dortmund enteilt](https://www.spiegel.de/sport/fussball/bundesligafinanzen-warum-bayern-muenchen-auch-borussia-dortmund-enteilt-ist-a-20556261-07bb-490b-add7-0c49c77cf449)
+
+Zeigt strukturelle finanzielle Überlegenheit an Umsatz, Gehältern, Transfervolumen und CL-Einnahmen – mit Langzeitvergleichen. Erklärt sportliche Dominanz datenbasiert.
+
+### [Deutschlands marode Brücken](https://www.spiegel.de/wirtschaft/infrastruktur-wie-marode-sind-deutschlands-autobahn-und-bundesstrassen-bruecken-a-b962de3a-43af-47d6-b63c-5842df7bbf9e)
+
+**September 2024**
+
+Der SPIEGEL-Artikel präsentiert eine interaktive Karte, die den Zustand von über 40.000 Autobahn‑ und Bundesstraßenbrücken in Deutschland farblich nach Zustandsnoten von „sehr gut" bis „ungenügend" darstellt.
+
+## Der Tagesspiegel
+
+### [Berliner Hausnummern: Zickzack verdrängt Hufeisen](https://hausnummern.tagesspiegel.de/)
+
+**Oktober 2016**
+
+Die interaktive Karte zeigt Berlins Straßennetz farbcodiert nach dem Nummerierungsschema: rote Linien markieren Hufeisen‑verlaufende Hausnummern, blaue Linien den Zickzack‑Modus.
+
+### [Berlin 1928 und heute](https://1928.tagesspiegel.de/)
+
+Zeitreise-Visualisierung mit historischen Karten/Luftbildern im Vergleich zu heutigen Satellitenaufnahmen; per Schieberegler lassen sich Stadterweiterung, Nachkriegsumbau und dichte Neubauquartiere quartiergenau erkunden.
+
+### [Demo-Atlas Berlin: Wofür wird in meiner Nachbarschaft demonstriert?](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/)
+
+Karte und Timeline aller gemeldeten Versammlungen mit Filter nach Thema, Ort, Route und Zeitraum; Heatmaps und Kiezzuschnitte zeigen lokale Protestschwerpunkte.
+
+### [Die Profiteure des Todesstreifens](https://interaktiv.tagesspiegel.de/lab/35-jahre-mauerfall-die-profiteure-des-todesstreifen/)
+
+Recherche-Karte entlang des früheren Mauerstreifens: zeigt Flurstücke, Eigentümerwechsel und heutige Bau- und Verkaufsprojekte – und wie Bodenwertgewinne auf ehemals staatlichem Gelände realisiert wurden.
+
+### [Eine Karte aller Berliner Mieterinitiativen und Beratungsstellen](https://digitalpresent.tagesspiegel.de/kontraste/berliner_mieterinitiativen/)
+
+Punktekarte mit Such- und Filterfunktionen, die Mieterinitiativen, Beratungsstellen und Anlaufpunkte nach Bezirk und Thema sichtbar macht – inklusive Kontaktinfos und Verlinkungen.
+
+### [Alle Kleingärten Berlins – und was dort entstehen könnte](https://interaktiv.tagesspiegel.de/lab/alle-kleingaerten-berlins-auf-einer-karte-und-wie-viele-wohnungen-dort-stehen-koennten/)
+
+Zeigt Kolonien mit Status, Flächen und Parzellen – macht Nutzungskonflikte zwischen Stadtgrün und Wohnungsbau quantifizierbar.
+
+### [Kühle Orte in Berlin](https://interaktiv.tagesspiegel.de/lab/berlins-coolste-orte-in-diesen-nachbarschaften-laesst-es-sich-trotz-rekord-hitze-aushalten/)
+
+Stündlich aktualisierte Karte zeigt bei Hitzewellen, wo es am erträglichsten ist (Schatten, Wind, Wasser, Parks).
+
+### [Sind die Temperaturen in Deutschland gerade normal?](https://interaktiv.tagesspiegel.de/lab/temperaturmonitor-wetter-vs-klima-sind-die-temperaturen-in-deutschland-gerade-normal/)
+
+Tagesaktuelle Charts und Karten, die Temperatur-Anomalien gegenüber Klimareferenzzeiträumen vergleichen; auswählbar nach Ort/Bundesland mit Einordnung extremer Abweichungen.
+
+### [In diesen Kiezen gibt es die meisten Autos](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/)
+
+Feinräumige Karte des Pkw-Bestands pro 1.000 Einwohner bis auf Kiez/Planungsraum-Ebene; Vergleich zwischen Bezirken, Trendansichten und Hinweise auf Parkdruck und Verkehrsbelastung.
+
+### [Radmesser – Überholabstände beim Radfahren vermessen](https://interaktiv.tagesspiegel.de/radmesser/)
+
+Mit Ultraschall-Sensoren erfassten Freiwillige rund 17.000 Überholmanöver; die Analyse zeigt, wo Radfahrende systematisch zu eng überholt werden und hat Debatten sowie Maßnahmen angestoßen.
+
+### [A100: So verändert der neue Abschnitt den Verkehr](https://interaktiv.tagesspiegel.de/lab/ein-monat-neuer-autobahn-abschnitt-so-veraendert-die-a100-den-verkehr-in-berlins-kiezen/)
+
+Vorher/Nachher-Analyse misst mit Floating-Car-Daten, wo Straßen schneller oder langsamer wurden – Gewerbegebiete profitieren, Wohnviertel verlieren.
+
+### [Der BER im 3D-Modell: Deswegen wurde 14 Jahre lang gebaut](https://interaktiv.tagesspiegel.de/lab/flughafen-ber-in-3d/)
+
+Scroll-Story mit WebGL-Modell des Flughafens BER: Bauphasen, Brandschutz- und Lüftungssysteme sowie Planungsfehler werden räumlich erklärt; eine Chronik erläutert, wie Verzögerungen und Nachbesserungen zusammenhängen.
+
+### [An welchen Berliner Schulen gibt es die besten Abiturnoten?](https://interaktiv.tagesspiegel.de/lab/zwischen-eins-komma-null-und-knapp-bestanden-wo-berliner-schueler-ihr-abitur-machen/)
+
+**September 2025**
+
+Die interaktive Grafik des Tagesspiegels zeigt alle weiterführenden Schulen Berlins auf einer Karte, farblich kodiert nach durchschnittlicher Abiturnote und Durchfallquote, mit Filtern nach Schulform und Suchfunktion nach Adresse oder Schulname.
+
+### [Die Berliner Klassenfrage 2025: Hier fehlen die meisten Lehrkräfte – Schule für Schule](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-2025-hier-fehlen-am-meisten-lehrkraefte-datenanalyse-und-interakive-karte/)
+
+**März 2025**
+
+Interaktive Karte und Schulprofile, die für jede Berliner Schule Lehrkräftemangel, Vertretungsquoten und Schüler-Lehrer-Relation ausweisen; filterbar nach Bezirk und Schulart, mit direkter Vergleichsfunktion.
+
+### [Fahrraddiebstahl in Berlin](https://interaktiv.tagesspiegel.de/lab/berlins-fahrraddiebstahl-hotspots-in-diesen-kiezen-steht-ihr-rad-besonders-gefaehrlich/index_paid.html) 🔒
+
+**Paywall (Tagesspiegel Plus)**
+
+Heatmap und Zeitreihenanalyse zeigen Diebstahl-Hotspots nach Kiez, Tageszeit und Fahrradtyp; interaktive Karte mit Suchfunktion für die eigene Adresse.
+
+### [Wie lebenswert ist mein Kiez?](https://interaktiv.tagesspiegel.de/lab/gruenflaechen-laerm-luftverschmutzung-wie-lebenswert-ist-mein-kiez-in-berlin/index_paid.html) 🔒
+
+**Paywall (Tagesspiegel Plus)**
+
+Lebensqualitäts-Index für Berliner Kieze basierend auf Grünflächen, Lärm, Luftverschmutzung und Infrastruktur; Karte mit Vergleichsfunktion und Rankings.
+
+## Berliner Morgenpost
+
+### [Berlin 1953 vs. heute](https://interaktiv.morgenpost.de/berlin-1953-2016/)
+
+Schieberegler-Vergleich historischer Luftaufnahmen mit aktuellen Orthofotos zeigt Wiederaufbau und Stadtentwicklung nach dem Krieg.
+
+### [So alt wohnt Berlin](https://interaktiv.morgenpost.de/so-alt-wohnt-berlin/)
+
+Karte zeigt Baualtersstruktur bis auf Block-Ebene – von Gründerzeit über Plattenbau bis zu modernen Neubauten.
+
+### [So tickt Berlin an deiner Linie](https://interaktiv.morgenpost.de/berlin-an-deiner-linie/)
+
+Entlang BVG/S-Bahn-Linien werden Sozialindikatoren (Alter, Einkommen, Demografie) vergleichbar – ein Stadtsoziologie-Blick entlang der Strecken.
+
+### [Mietkarte Berlin – Welche Kieze sind (noch) bezahlbar?](https://interaktiv.morgenpost.de/mietkarte-berlin/)
+
+Schätzt den Mietkostenanteil pro PLZ und Wohnungsgröße; deckt „rote Zonen" der Überlastung auf.
+
+### [Berliner Mieten seit 2009](https://interaktiv.morgenpost.de/berlinmieten/)
+
+Zeitreihen und Karten zeigen, wo sich Preise verdoppelt haben – feinräumig und verlässlich dokumentiert seit 2009.
+
+### [Lärmkarte Berlin – So laut ist es vor Ihrer Haustür](https://interaktiv.morgenpost.de/laermkarte-berlin/)
+
+Adressgenaue Pegelkarte zeigt Belastung an Fassaden; nützlich für Wohnungssuche und Stadtplanung.
+
+### [Klimawandel: Wo unsere Erde unbewohnbar wird](https://interaktiv.morgenpost.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/)
+
+3D-Globus visualisiert Klimaszenarien bis 2100: tödliche Hitze, Meeresspiegelanstieg, Wasserknappheit und Stürme – nach Regionen und Zeithorizont filterbar mit IPCC-Daten.
+
+### [Wetter heute vs. Klima](https://interaktiv.morgenpost.de/wetter-klima-vergleich-heute-klimawandel/)
+
+Tool zum Vergleich des aktuellen Wetters mit historischen Klimamitteln; zeigt Abweichungen bei Temperatur, Niederschlag und Sonnenstunden für deutsche Städte.
+
+### [Deutschlands grünste Großstädte](https://interaktiv.morgenpost.de/gruenste-staedte-deutschlands)
+
+Vergleicht 79 Großstädte anhand Vegetations-Indizes aus Satellitenbildern – mit Detailansichten, Rankings und dokumentierter Methodik.
+
+## Süddeutsche Zeitung
+
+### [Das gespaltene Parlament](https://www.sueddeutsche.de/projekte/artikel/politik/die-afd-im-bundestag-e362724/)
+
+**August 2019**
+
+Die datenjournalistische SZ-Analyse wertet systematisch rund 1.500 Redebeiträge und offizielle Plenarprotokolle aus, quantifiziert Häufigkeit und Richtung von Lachen, Applaus und Zwischenrufen je Fraktion und visualisiert diese in interaktiven Grafiken. So zeigt sie, wie die AfD mit synchronem Klatschen, aggressivem Lachen und massenhaften Unterbrechungen gezielt Spaltung erzeugt und das Debattenklima prägt.
+
+## FragDenStaat
+
+### [Demo-Hauptstadt Berlin](https://fragdenstaat.de/dossier/demo-hauptstadt-berlin/)
+
+Auf offenen Daten basierende Übersicht zu Demonstrationen in Berlin; aus IFG-Anfragen zusammengetragene Termine, Orte und Veranstalter als Karte und Datensatz mit Download-Option.
+
+## Le Monde
+
+### [Partez en vacances à l'étranger sans quitter l'Hexagone avec notre carte des villes homonymes](https://www.lemonde.fr/les-decodeurs/article/2023/07/10/partez-en-vacances-a-l-etranger-sans-quitter-l-hexagone-avec-notre-carte-des-villes-homonymes_6181306_4355770.html)
+
+**Juli 2023**
+
+Verspielte, datengetriebene Karte gleichnamiger Städte/Gemeinden in Frankreich: per Suche und Zoom navigierbar, um »Reisen« zu Namensvettern quer durchs Land zu inszenieren.
 
 ## Contributing
 
