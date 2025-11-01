@@ -61,6 +61,18 @@ Langzeitvisualisierung zur Abwanderung aus Mittel- und Osteuropa seit den 1990er
 
 Großformatige Karten- und Diagrammstrecke, die die politische Landkarte Europas nach Parteienfamilien und deren Verschiebungen der letzten Jahre zeichnet – mit Ländervergleichen, Zeitachsen und kurzen Länderprofilen.
 
+### [Phantomgrenzen](https://www.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen)
+
+**DIE ZEIT** · December 2024
+
+Datenanalyse zeigt, wie historische Grenzen (DDR, Preußen, Polen) bis heute Wahlergebnisse und politische Präferenzen prägen – mit interaktiven Karten und Overlay-Vergleichen.
+
+### [Todesopfer rechter Gewalt: Wieso fehlen 86 Tote in den Zahlen?](https://www.zeit.de/gesellschaft/2025-07/todesopfer-rechter-gewalt-faelle-statistik-personen) 🔒
+
+**DIE ZEIT** · July 2025 · **Paywall (Z+)**
+
+Langzeitdatensatz und Visualisierungen zu Todesopfern rechter Gewalt seit 1990; Abgleich offizieller Statistiken mit Recherchen von Zivilgesellschaft und Medien deckt systematische Erfassungslücken auf.
+
 ## City & Urban
 
 ### [Berliner Hausnummern: Zickzack verdrängt Hufeisen](https://hausnummern.tagesspiegel.de/)
@@ -105,6 +117,24 @@ Punktekarte mit Such- und Filterfunktionen, die Mieterinitiativen, Beratungsstel
 
 Verspielte, datengetriebene Karte gleichnamiger Städte/Gemeinden in Frankreich: per Suche und Zoom navigierbar, um »Reisen« zu Namensvettern quer durchs Land zu inszenieren.
 
+### [Fahrraddiebstahl in Berlin](https://interaktiv.tagesspiegel.de/lab/berlins-fahrraddiebstahl-hotspots-in-diesen-kiezen-steht-ihr-rad-besonders-gefaehrlich/index_paid.html) 🔒
+
+**Der Tagesspiegel** · **Paywall (Tagesspiegel Plus)**
+
+Heatmap und Zeitreihenanalyse zeigen Diebstahl-Hotspots nach Kiez, Tageszeit und Fahrradtyp; interaktive Karte mit Suchfunktion für die eigene Adresse.
+
+### [Wo soll ich wohnen?](https://www.zeit.de/zeit-magazin/2024-09/wohnorte-deutschland-lebensqualitaet-versorgung-infrastruktur) 🔒
+
+**DIE ZEIT** · September 2024 · **Paywall (Z+)**
+
+Interaktives Tool findet passende Wohnorte in Deutschland nach individuellen Kriterien (Mieten, Infrastruktur, Demografie, Klima); Vergleichsfunktion für Städte und Landkreise.
+
+### [Wie lebenswert ist mein Kiez?](https://interaktiv.tagesspiegel.de/lab/gruenflaechen-laerm-luftverschmutzung-wie-lebenswert-ist-mein-kiez-in-berlin/index_paid.html) 🔒
+
+**Der Tagesspiegel** · **Paywall (Tagesspiegel Plus)**
+
+Lebensqualitäts-Index für Berliner Kieze basierend auf Grünflächen, Lärm, Luftverschmutzung und Infrastruktur; Karte mit Vergleichsfunktion und Rankings.
+
 ## Infrastructure
 
 ### [Deutschlands marode Brücken](https://www.spiegel.de/wirtschaft/infrastruktur-wie-marode-sind-deutschlands-autobahn-und-bundesstrassen-bruecken-a-b962de3a-43af-47d6-b63c-5842df7bbf9e)
@@ -125,6 +155,12 @@ ZEIT ONLINE hat rund 450.000 deutsche Straßennamen aus OpenStreetMap in einer d
 
 Scroll-Story mit WebGL-Modell des Flughafens BER: Bauphasen, Brandschutz- und Lüftungssysteme sowie Planungsfehler werden räumlich erklärt; eine Chronik erläutert, wie Verzögerungen und Nachbesserungen zusammenhängen.
 
+### [15-Minuten-Stadt: Wo in Deutschland die Wege am kürzesten sind](https://www.zeit.de/wirtschaft/2025-07/15-minuten-stadt-raumforschung-stadtplanung-alltagswege-daten) 🔒
+
+**DIE ZEIT** · July 2025 · **Paywall (Z+)**
+
+Analyse der Alltagswege-Erreichbarkeit in deutschen Städten und Gemeinden; interaktive Karte zeigt, wo Supermärkte, Schulen, Ärzte und ÖPNV innerhalb von 15 Minuten zu Fuß oder per Rad erreichbar sind.
+
 ## Environment
 
 ### [Wir schalten ab, sie heizen hoch](https://www.zeit.de/wirtschaft/2021-12/kohlekraftwerke-co2-emissionen-kohlestrom-klimawandel)
@@ -138,6 +174,24 @@ Interaktive Weltkarte zu Kohlekraftwerken mit Status (geplant, im Bau, in Betrie
 **Der Tagesspiegel**
 
 Tagesaktuelle Charts und Karten, die Temperatur-Anomalien gegenüber Klimareferenzzeiträumen vergleichen; auswählbar nach Ort/Bundesland mit Einordnung extremer Abweichungen.
+
+### [Klimawandel: Wo unsere Erde unbewohnbar wird](https://interaktiv.morgenpost.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/)
+
+**Berliner Morgenpost**
+
+3D-Globus visualisiert Klimaszenarien bis 2100: tödliche Hitze, Meeresspiegelanstieg, Wasserknappheit und Stürme – nach Regionen und Zeithorizont filterbar.
+
+### [Wetter heute vs. Klima](https://interaktiv.morgenpost.de/wetter-klima-vergleich-heute-klimawandel/)
+
+**Berliner Morgenpost**
+
+Tool zum Vergleich des aktuellen Wetters mit historischen Klimamitteln; zeigt Abweichungen bei Temperatur, Niederschlag und Sonnenstunden für deutsche Städte.
+
+### [Lärm in deutschen Städten: Wo Lärm krank macht](https://www.zeit.de/mobilitaet/2024-02/laerm-deutsche-staedte-schlafen-gesundheit-daten) 🔒
+
+**DIE ZEIT** · February 2024 · **Paywall (Z+)**
+
+Hausblock-genaue Lärmbelastung in 55 deutschen Städten; interaktive Karte zeigt Dezibel-Werte, Gesundheitsrisiken und stille Gebiete – mit Adresssuche und Vergleichsfunktion.
 
 ## Technology
 
