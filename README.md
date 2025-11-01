@@ -4,6 +4,8 @@
 
 A collection of the most interesting and impactful data journalism projects from German news organizations, showcasing innovative visualizations, in-depth analyses, and interactive storytelling.
 
+**For a complete table with additional metadata, see [PROJECTS.md](PROJECTS.md).**
+
 ## Contents
 
 - [Education](#education)
@@ -17,25 +19,25 @@ A collection of the most interesting and impactful data journalism projects from
 
 ### [An welchen Berliner Schulen gibt es die besten Abiturnoten?](https://interaktiv.tagesspiegel.de/lab/zwischen-eins-komma-null-und-knapp-bestanden-wo-berliner-schueler-ihr-abitur-machen/)
 
-**Der Tagesspiegel** · September 2025 · _Map_
+**Der Tagesspiegel** · September 2025
 
 Die interaktive Grafik des Tagesspiegels zeigt alle weiterführenden Schulen Berlins auf einer Karte, farblich kodiert nach durchschnittlicher Abiturnote und Durchfallquote, mit Filtern nach Schulform und Suchfunktion nach Adresse oder Schulname.
 
 ### [Die Berliner Klassenfrage 2025: Hier fehlen die meisten Lehrkräfte – Schule für Schule](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-2025-hier-fehlen-am-meisten-lehrkraefte-datenanalyse-und-interakive-karte/)
 
-**Der Tagesspiegel** · March 2025 · _Map_
+**Der Tagesspiegel** · March 2025
 
 ## Politics
 
 ### [Darüber spricht der Bundestag](https://www.zeit.de/politik/deutschland/2019-09/bundestag-jubilaeum-70-jahre-parlament-reden-woerter-sprache-wandel#s=doktorarbeit)
 
-**DIE ZEIT** · September 2019 · _App_
+**DIE ZEIT** · September 2019
 
 DIE ZEIT hat alle Bundestagsplenarprotokolle seit 1949 digitalisiert und zeigt in interaktiven Grafiken, wie Wort‑ und Themen­trends im Parlament verlaufen.
 
 ### [Das gespaltene Parlament](https://www.sueddeutsche.de/projekte/artikel/politik/die-afd-im-bundestag-e362724/)
 
-**Süddeutsche Zeitung** · August 2019 · _App_
+**Süddeutsche Zeitung** · August 2019
 
 Die datenjournalistische SZ-Analyse wertet systematisch rund 1.500 Redebeiträge und offizielle Plenarprotokolle aus, quantifiziert Häufigkeit und Richtung von Lachen, Applaus und Zwischenrufen je Fraktion und visualisiert diese in interaktiven Grafiken. So zeigt sie, wie die AfD mit synchronem Klatschen, aggressivem Lachen und massenhaften Unterbrechungen gezielt Spaltung erzeugt und das Debattenklima prägt.
 
@@ -55,7 +57,7 @@ Die datenjournalistische SZ-Analyse wertet systematisch rund 1.500 Redebeiträge
 
 ### [Berliner Hausnummern: Zickzack verdrängt Hufeisen](https://hausnummern.tagesspiegel.de/)
 
-**Der Tagesspiegel** · October 2016 · _Map_
+**Der Tagesspiegel** · October 2016
 
 Die interaktive Karte zeigt Berlins Straßennetz farbcodiert nach dem Nummerierungsschema: rote Linien markieren Hufeisen‑verlaufende Hausnummern, blaue Linien den Zickzack‑Modus.
 
@@ -81,13 +83,13 @@ Die interaktive Karte zeigt Berlins Straßennetz farbcodiert nach dem Nummerieru
 
 ### [Partez en vacances à l'étranger sans quitter l'Hexagone avec notre carte des villes homonymes](https://www.lemonde.fr/les-decodeurs/article/2023/07/10/partez-en-vacances-a-l-etranger-sans-quitter-l-hexagone-avec-notre-carte-des-villes-homonymes_6181306_4355770.html)
 
-**Le Monde** · July 2023 · _Map_
+**Le Monde** · July 2023
 
 ## Infrastructure
 
 ### [Deutschlands marode Brücken](https://www.spiegel.de/wirtschaft/infrastruktur-wie-marode-sind-deutschlands-autobahn-und-bundesstrassen-bruecken-a-b962de3a-43af-47d6-b63c-5842df7bbf9e)
 
-**DER SPIEGEL** · September 2024 · _Map_
+**DER SPIEGEL** · September 2024
 
 Der SPIEGEL-Artikel präsentiert eine interaktive Karte, die den Zustand von über 40.000 Autobahn‑ und Bundesstraßenbrücken in Deutschland farblich nach Zustandsnoten von „sehr gut" bis „ungenügend" darstellt.
 
@@ -105,7 +107,7 @@ ZEIT ONLINE hat rund 450.000 deutsche Straßennamen aus OpenStreetMap in einer d
 
 ### [Wir schalten ab, sie heizen hoch](https://www.zeit.de/wirtschaft/2021-12/kohlekraftwerke-co2-emissionen-kohlestrom-klimawandel)
 
-**DIE ZEIT** · December 2021 · _Map_
+**DIE ZEIT** · December 2021
 
 Der SPIEGEL-Artikel setzt datenjournalistisch eine interaktive Weltkarte ein, um den Status und die Leistung aller globalen Kohlekraftwerke (außer Betrieb, im Bau) zu visualisieren und verdeutlicht so regionale Unterschiede beim Kohleausstieg und Neubau.
 
