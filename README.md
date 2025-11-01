@@ -78,6 +78,12 @@ Langzeitdatensatz und Visualisierungen zu Todesopfern rechter Gewalt seit 1990; 
 
 Analyse der Alltagswege-Erreichbarkeit in deutschen Städten und Gemeinden; interaktive Karte zeigt, wo Supermärkte, Schulen, Ärzte und ÖPNV innerhalb von 15 Minuten zu Fuß oder per Rad erreichbar sind.
 
+### [Darüber spricht der Bundestag](https://www.zeit.de/politik/deutschland/2019-09/bundestag-jubilaeum-70-jahre-parlament-reden-woerter-sprache-wandel) 🔒
+
+**2019 · Paywall (Z+)**
+
+Eine durchsuchbare Aufbereitung aller Bundestags-Plenarprotokolle seit 1949. Interaktive Visualisierungen zeigen Wort- und Thementrends über Jahrzehnte, inkl. Partei- und Gender-Vergleichen.
+
 ## DER SPIEGEL
 
 ### [Pendeln in Deutschland – eine persönliche Geschichte](https://cdn.www.spiegel.de/producing/wirtschaft/2018/pendler/v1/pendler.html)
@@ -135,6 +141,10 @@ Erklärt Score-Entstehung, typische Einflussfaktoren und Fehlerquellen – mit B
 ### [Staus in Deutschland – Karten der staureichsten Großstädte](https://www.spiegel.de/auto/staus-in-deutschland-karten-der-staureichsten-grossstaedte-a-87279e48-282a-48de-93d4-b8e4a708d670)
 
 Interaktive Karten analysieren Verkehrsfluss und identifizieren Engpässe, wo Geschwindigkeiten systematisch einbrechen; nützlich für Stadtplanung und Pendler.
+
+### [Kfz-Versicherungstarife entschlüsselt](https://www.spiegel.de/auto/fahrkultur/kfz-versicherungstarife-entschluesselt-so-wirken-sich-alter-fahrzeugmodell-und-wohnort-aus-a-f887533e-8c70-4044-925a-a78a5eda09fe)
+
+Rekonstruktion der Tariflogik anhand massenhaft erhobener Angebotsdaten: Welche Merkmale treiben Prämien (Wohnlage, Modell, Alter)? Diskutiert Transparenz/Fairness algorithmischer Tarifierung.
 
 ### [Bundesliga-Finanzen: Warum Bayern auch Dortmund enteilt](https://www.spiegel.de/sport/fussball/bundesligafinanzen-warum-bayern-muenchen-auch-borussia-dortmund-enteilt-ist-a-20556261-07bb-490b-add7-0c49c77cf449)
 

@@ -4,16 +4,16 @@ This document contains all projects in a tabular format for easy reference and c
 
 ## Summary Statistics
 
-- **Total Projects:** 51
-- **Free Access:** 45 projects
-- **Paywall (Z+):** 4 projects
+- **Total Projects:** 53
+- **Free Access:** 46 projects
+- **Paywall (Z+):** 5 projects
 - **Paywall (Tagesspiegel Plus):** 2 projects
 
 ## Projects by Publisher
 
 - **Der Tagesspiegel**: 15 projects (2 behind paywall)
-- **DER SPIEGEL**: 14 projects (all free)
-- **DIE ZEIT**: 10 projects (4 behind paywall)
+- **DER SPIEGEL**: 15 projects (all free)
+- **DIE ZEIT**: 11 projects (5 behind paywall)
 - **Berliner Morgenpost**: 9 projects (all free)
 - **Süddeutsche Zeitung**: 1 project
 - **FragDenStaat**: 1 project
@@ -33,6 +33,7 @@ This document contains all projects in a tabular format for easy reference and c
 | **DIE ZEIT** | [Welcher Stadtteil passt zu mir?](https://www.zeit.de/zeit-magazin/2025-06/stadtteile-grossstaedte-wohnen-deutschland-lebensqualitaet) 🔒 | 2025 | Ja (Z+) | Stadtteil-Finder für 79 Großstädte |
 | **DIE ZEIT** | [Todesopfer rechter Gewalt: Wieso fehlen 86 Tote in den Zahlen?](https://www.zeit.de/gesellschaft/2025-07/todesopfer-rechter-gewalt-faelle-statistik-personen) 🔒 | 2025 | Ja (Z+) | Langzeitdatensatz zu Todesopfern rechter Gewalt seit 1990 |
 | **DIE ZEIT** | [15-Minuten-Stadt: Wo in Deutschland die Wege am kürzesten sind](https://www.zeit.de/wirtschaft/2025-07/15-minuten-stadt-raumforschung-stadtplanung-alltagswege-daten) 🔒 | 2025 | Ja (Z+) | Erreichbarkeitsanalyse für Alltagsziele |
+| **DIE ZEIT** | [Darüber spricht der Bundestag](https://www.zeit.de/politik/deutschland/2019-09/bundestag-jubilaeum-70-jahre-parlament-reden-woerter-sprache-wandel) 🔒 | 2019 | Ja (Z+) | Durchsuchbare Aufbereitung aller Bundestags-Plenarprotokolle seit 1949 |
 | **DER SPIEGEL** | [Pendeln in Deutschland – eine persönliche Geschichte](https://cdn.www.spiegel.de/producing/wirtschaft/2018/pendler/v1/pendler.html) | 2018 | Nein | Personalisiertes Scrollytelling zu Pendlerströmen |
 | **DER SPIEGEL** | [A short history of urban design in Germany](https://interactive.spiegel.de/int/pub/nextgen_migration/wissenschaft/2019/schwarzplan/v0/pub/index.html) | 2019 | Nein | Stadtentwicklung in Deutschland als Scrollytelling |
 | **DER SPIEGEL** | [Warum wächst die Weltbevölkerung trotz sinkender Geburtenraten?](https://www.spiegel.de/gesundheit/schwangerschaft/warum-waechst-die-weltbevoelkerung-bei-sinkender-geburtenquote-a-1292974.html) | - | Nein | Demografischer Trägheitseffekt erklärt |
@@ -46,6 +47,7 @@ This document contains all projects in a tabular format for easy reference and c
 | **DER SPIEGEL** | [Geldautomaten: Wie sind sie in Deutschland verteilt?](https://www.spiegel.de/wirtschaft/service/geldautomaten-wie-sind-sie-in-deutschland-verteilt-a-1226430.html) | - | Nein | Bargeld-Versorgungslücken auf Karte |
 | **DER SPIEGEL** | [SCHUFA: So funktioniert Deutschlands einflussreichste Auskunftei](https://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html) | - | Nein | Score-Entstehung und Fehlerquellen erklärt |
 | **DER SPIEGEL** | [Staus in Deutschland – Karten der staureichsten Großstädte](https://www.spiegel.de/auto/staus-in-deutschland-karten-der-staureichsten-grossstaedte-a-87279e48-282a-48de-93d4-b8e4a708d670) | - | Nein | Verkehrsfluss-Analysen und Engpässe identifiziert |
+| **DER SPIEGEL** | [Kfz-Versicherungstarife entschlüsselt](https://www.spiegel.de/auto/fahrkultur/kfz-versicherungstarife-entschluesselt-so-wirken-sich-alter-fahrzeugmodell-und-wohnort-aus-a-f887533e-8c70-4044-925a-a78a5eda09fe) | - | Nein | Tariflogik-Rekonstruktion zeigt Prämientreiber |
 | **DER SPIEGEL** | [Bundesliga-Finanzen: Warum Bayern auch Dortmund enteilt](https://www.spiegel.de/sport/fussball/bundesligafinanzen-warum-bayern-muenchen-auch-borussia-dortmund-enteilt-ist-a-20556261-07bb-490b-add7-0c49c77cf449) | - | Nein | Strukturelle finanzielle Überlegenheit von Bayern visualisiert |
 | **DER SPIEGEL** | [Deutschlands marode Brücken](https://www.spiegel.de/wirtschaft/infrastruktur-wie-marode-sind-deutschlands-autobahn-und-bundesstrassen-bruecken-a-b962de3a-43af-47d6-b63c-5842df7bbf9e) | 2024 | Nein | Zustand von 40.000+ Brücken auf Karte |
 | **Der Tagesspiegel** | [Berliner Hausnummern: Zickzack verdrängt Hufeisen](https://hausnummern.tagesspiegel.de/) | 2016 | Nein | Nummerierungssysteme Berliner Straßen visualisiert |
