@@ -14,6 +14,7 @@ A collection of the most interesting and impactful data journalism projects from
 - [Infrastructure](#infrastructure)
 - [Environment](#environment)
 - [Technology](#technology)
+- [Sports](#sports)
 
 ## Education
 
@@ -63,6 +64,24 @@ Die interaktive Karte zeigt Berlins Straßennetz farbcodiert nach dem Nummerieru
 
 Zeitreise-Visualisierung mit historischen Karten/Luftbildern im Vergleich zu heutigen Satellitenaufnahmen; per Schieberegler lassen sich Stadterweiterung, Nachkriegsumbau und dichte Neubauquartiere quartiergenau erkunden.
 
+### [Berlin 1953 vs. heute](https://interaktiv.morgenpost.de/berlin-1953-2016/)
+
+**Berliner Morgenpost**
+
+Schieberegler-Vergleich historischer Luftaufnahmen mit aktuellen Orthofotos zeigt Wiederaufbau und Stadtentwicklung nach dem Krieg.
+
+### [So alt wohnt Berlin](https://interaktiv.morgenpost.de/so-alt-wohnt-berlin/)
+
+**Berliner Morgenpost**
+
+Karte zeigt Baualtersstruktur bis auf Block-Ebene – von Gründerzeit über Plattenbau bis zu modernen Neubauten.
+
+### [So tickt Berlin an deiner Linie](https://interaktiv.morgenpost.de/berlin-an-deiner-linie/)
+
+**Berliner Morgenpost**
+
+Entlang BVG/S-Bahn-Linien werden Sozialindikatoren (Alter, Einkommen, Demografie) vergleichbar – ein Stadtsoziologie-Blick entlang der Strecken.
+
 ### [Demo-Atlas Berlin: Wofür wird in meiner Nachbarschaft demonstriert?](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/)
 
 **Der Tagesspiegel**
@@ -87,6 +106,36 @@ Recherche-Karte entlang des früheren Mauerstreifens: zeigt Flurstücke, Eigent�
 
 Punktekarte mit Such- und Filterfunktionen, die Mieterinitiativen, Beratungsstellen und Anlaufpunkte nach Bezirk und Thema sichtbar macht – inklusive Kontaktinfos und Verlinkungen.
 
+### [Mietkarte Berlin – Welche Kieze sind (noch) bezahlbar?](https://interaktiv.morgenpost.de/mietkarte-berlin/)
+
+**Berliner Morgenpost**
+
+Schätzt den Mietkostenanteil pro PLZ und Wohnungsgröße; deckt „rote Zonen" der Überlastung auf.
+
+### [Berliner Mieten seit 2009](https://interaktiv.morgenpost.de/berlinmieten/)
+
+**Berliner Morgenpost**
+
+Zeitreihen und Karten zeigen, wo sich Preise verdoppelt haben – feinräumig und verlässlich dokumentiert seit 2009.
+
+### [Lärmkarte Berlin – So laut ist es vor Ihrer Haustür](https://interaktiv.morgenpost.de/laermkarte-berlin/)
+
+**Berliner Morgenpost**
+
+Adressgenaue Pegelkarte zeigt Belastung an Fassaden; nützlich für Wohnungssuche und Stadtplanung.
+
+### [Alle Kleingärten Berlins – und was dort entstehen könnte](https://interaktiv.tagesspiegel.de/lab/alle-kleingaerten-berlins-auf-einer-karte-und-wie-viele-wohnungen-dort-stehen-koennten/)
+
+**Der Tagesspiegel**
+
+Zeigt Kolonien mit Status, Flächen und Parzellen – macht Nutzungskonflikte zwischen Stadtgrün und Wohnungsbau quantifizierbar.
+
+### [Kühle Orte in Berlin](https://interaktiv.tagesspiegel.de/lab/berlins-coolste-orte-in-diesen-nachbarschaften-laesst-es-sich-trotz-rekord-hitze-aushalten/)
+
+**Der Tagesspiegel**
+
+Stündlich aktualisierte Karte zeigt bei Hitzewellen, wo es am erträglichsten ist (Schatten, Wind, Wasser, Parks).
+
 ### [Partez en vacances à l'étranger sans quitter l'Hexagone avec notre carte des villes homonymes](https://www.lemonde.fr/les-decodeurs/article/2023/07/10/partez-en-vacances-a-l-etranger-sans-quitter-l-hexagone-avec-notre-carte-des-villes-homonymes_6181306_4355770.html)
 
 **Le Monde** · July 2023
@@ -105,6 +154,12 @@ Heatmap und Zeitreihenanalyse zeigen Diebstahl-Hotspots nach Kiez, Tageszeit und
 
 Interaktives Tool findet passende Wohnorte in Deutschland nach individuellen Kriterien (Mieten, Infrastruktur, Demografie, Klima); Vergleichsfunktion für Städte und Landkreise.
 
+### [Welcher Stadtteil passt zu mir?](https://www.zeit.de/zeit-magazin/2025-06/stadtteile-grossstaedte-wohnen-deutschland-lebensqualitaet) 🔒
+
+**DIE ZEIT** · June 2025 · **Paywall (Z+)**
+
+Durchsucht rund 3.000 Stadtteile in 79 Großstädten nach individuellen Präferenzen (Preise, Erreichbarkeit, Umfeld); zeigt profilierte Vergleiche und Alternativen.
+
 ### [Wie lebenswert ist mein Kiez?](https://interaktiv.tagesspiegel.de/lab/gruenflaechen-laerm-luftverschmutzung-wie-lebenswert-ist-mein-kiez-in-berlin/index_paid.html) 🔒
 
 **Der Tagesspiegel** · **Paywall (Tagesspiegel Plus)**
@@ -121,7 +176,7 @@ Der SPIEGEL-Artikel präsentiert eine interaktive Karte, die den Zustand von üb
 
 ### [Straßenbilder – Mozart, Marx und ein Diktator](https://www.zeit.de/feature/strassenverzeichnis-strassennamen-herkunft-deutschland-infografik)
 
-**DIE ZEIT** · February 2028
+**DIE ZEIT** · 2018
 
 ZEIT ONLINE hat rund 450.000 deutsche Straßennamen aus OpenStreetMap in einer durchsuchbaren Datenbank und interaktiven Karte zusammengeführt, um großflächige Muster – von Baum‑ und Vogelvierteln über Komponisten‑ und Dichterstraßen bis hin zu Relikten sozialistischer und nationalsozialistischer Ideologien – sichtbar zu machen.
 
@@ -130,6 +185,30 @@ ZEIT ONLINE hat rund 450.000 deutsche Straßennamen aus OpenStreetMap in einer d
 **Der Tagesspiegel**
 
 Scroll-Story mit WebGL-Modell des Flughafens BER: Bauphasen, Brandschutz- und Lüftungssysteme sowie Planungsfehler werden räumlich erklärt; eine Chronik erläutert, wie Verzögerungen und Nachbesserungen zusammenhängen.
+
+### [A short history of urban design in Germany](https://interactive.spiegel.de/int/pub/nextgen_migration/wissenschaft/2019/schwarzplan/v0/pub/index.html)
+
+**DER SPIEGEL** · 2019
+
+Scrollytelling erzählt Stadtentwicklung in Deutschland über Karten und Pläne im Langformat – von Gründerzeit-Raster bis zur autogerechten Stadt.
+
+### [Pendeln in Deutschland – eine persönliche Geschichte](https://cdn.www.spiegel.de/producing/wirtschaft/2018/pendler/v1/pendler.html)
+
+**DER SPIEGEL** · 2018
+
+Scrollytelling mit personalisierter Ansicht zur eigenen Wohn-/Arbeitsrelation; zeigt Reichweiten, Belastungen und typische Pendelmuster mit Kontext zu Verkehr, Gesundheit und Infrastruktur.
+
+### [Geldautomaten: Wie sind sie in Deutschland verteilt?](https://www.spiegel.de/wirtschaft/service/geldautomaten-wie-sind-sie-in-deutschland-verteilt-a-1226430.html)
+
+**DER SPIEGEL**
+
+Karten und Kennzahlen zeigen Bargeld-Versorgungslücken, besonders in ländlichen Räumen nach Filialschließungen.
+
+### [EU-Agrarsubventionen in Deutschland](https://www.spiegel.de/wirtschaft/soziales/eu-subventionen-landwirtschaft-erklaerung-in-karten-a-1210055.html)
+
+**DER SPIEGEL**
+
+Macht transparent, wo EU-Fördergelder landen und welche Betriebe profitieren – inklusive regionaler Schwerpunkte und Verteilungsmuster.
 
 ### [15-Minuten-Stadt: Wo in Deutschland die Wege am kürzesten sind](https://www.zeit.de/wirtschaft/2025-07/15-minuten-stadt-raumforschung-stadtplanung-alltagswege-daten) 🔒
 
@@ -155,13 +234,31 @@ Tagesaktuelle Charts und Karten, die Temperatur-Anomalien gegenüber Klimarefere
 
 **Berliner Morgenpost**
 
-3D-Globus visualisiert Klimaszenarien bis 2100: tödliche Hitze, Meeresspiegelanstieg, Wasserknappheit und Stürme – nach Regionen und Zeithorizont filterbar.
+3D-Globus visualisiert Klimaszenarien bis 2100: tödliche Hitze, Meeresspiegelanstieg, Wasserknappheit und Stürme – nach Regionen und Zeithorizont filterbar mit IPCC-Daten.
 
 ### [Wetter heute vs. Klima](https://interaktiv.morgenpost.de/wetter-klima-vergleich-heute-klimawandel/)
 
 **Berliner Morgenpost**
 
 Tool zum Vergleich des aktuellen Wetters mit historischen Klimamitteln; zeigt Abweichungen bei Temperatur, Niederschlag und Sonnenstunden für deutsche Städte.
+
+### [Deutschlands grünste Großstädte](https://interaktiv.morgenpost.de/gruenste-staedte-deutschlands)
+
+**Berliner Morgenpost**
+
+Vergleicht 79 Großstädte anhand Vegetations-Indizes aus Satellitenbildern – mit Detailansichten, Rankings und dokumentierter Methodik.
+
+### [Nutzung der Meere: Wo dunkle Flotten die Ozeane ausbeuten](https://www.zeit.de/wissen/2024-01/nutzung-meere-fischerei-oelfrachter-transportschiffe)
+
+**DIE ZEIT** · January 2024
+
+Satelliten-/AIS-Daten machen die „unsichtbare" Nutzung der Meere sichtbar – von industrieller Fischerei über Tanker bis Eingriffe in Schutzgebiete; zeigt Machtverschiebungen und Regulierungslücken.
+
+### [Stromversorgung: So viel Sonnenenergie nutzt Ihr Ort](https://www.zeit.de/wissen/2024-09/solarenergie-stromversorgung-photovoltaik-solarmodule-sonnenstunden)
+
+**DIE ZEIT** · September 2024
+
+Deutschlandkarte zum Photovoltaik-Ausbau bis auf Gemeindeebene; zeigt regionale Unterschiede, Ausbaupotenziale und Sonnenstunden im Vergleich.
 
 ### [Lärm in deutschen Städten: Wo Lärm krank macht](https://www.zeit.de/mobilitaet/2024-02/laerm-deutsche-staedte-schlafen-gesundheit-daten) 🔒
 
@@ -176,6 +273,38 @@ Hausblock-genaue Lärmbelastung in 55 deutschen Städten; interaktive Karte zeig
 **Der Tagesspiegel**
 
 Feinräumige Karte des Pkw-Bestands pro 1.000 Einwohner bis auf Kiez/Planungsraum-Ebene; Vergleich zwischen Bezirken, Trendansichten und Hinweise auf Parkdruck und Verkehrsbelastung.
+
+### [Radmesser – Überholabstände beim Radfahren vermessen](https://interaktiv.tagesspiegel.de/radmesser/)
+
+**Der Tagesspiegel**
+
+Mit Ultraschall-Sensoren erfassten Freiwillige rund 17.000 Überholmanöver; die Analyse zeigt, wo Radfahrende systematisch zu eng überholt werden und hat Debatten sowie Maßnahmen angestoßen.
+
+### [A100: So verändert der neue Abschnitt den Verkehr](https://interaktiv.tagesspiegel.de/lab/ein-monat-neuer-autobahn-abschnitt-so-veraendert-die-a100-den-verkehr-in-berlins-kiezen/)
+
+**Der Tagesspiegel**
+
+Vorher/Nachher-Analyse misst mit Floating-Car-Daten, wo Straßen schneller oder langsamer wurden – Gewerbegebiete profitieren, Wohnviertel verlieren.
+
+### [Staus in Deutschland – Karten der staureichsten Großstädte](https://www.spiegel.de/auto/staus-in-deutschland-karten-der-staureichsten-grossstaedte-a-87279e48-282a-48de-93d4-b8e4a708d670)
+
+**DER SPIEGEL**
+
+Interaktive Karten analysieren Verkehrsfluss und identifizieren Engpässe, wo Geschwindigkeiten systematisch einbrechen; nützlich für Stadtplanung und Pendler.
+
+## Sports
+
+### [Shotmaps – alle Torschüsse eines Spiels visualisiert](https://www.spiegel.de/sport/fussball/shotmaps-alle-torschuesse-eines-fussballspiels-visualisiert-a-1250728.html)
+
+**DER SPIEGEL**
+
+Automatisiert erzeugte Schusskarten visualisieren Qualität, Position und Zeitpunkte aller Abschlüsse – praktisch für Taktik- und Coaching-Analysen.
+
+### [Freunde & Rivalen Ihres Lieblingsvereins](https://www.spiegel.de/sport/fussball/fussball-wer-sind-die-freunde-und-rivalen-ihres-lieblingsvereins-a-1219354.html)
+
+**DER SPIEGEL**
+
+Netzwerk-Grafik zeigt Fan-Sympathien und Rivalitäten zwischen Vereinen – interaktiv erkundbar, mit Überraschungen jenseits der „offiziellen" Derbys.
 
 ## Contributing
 
