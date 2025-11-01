@@ -26,7 +26,7 @@ Die interaktive Grafik des Tagesspiegels zeigt alle weiterführenden Schulen Ber
 
 ### [Die Berliner Klassenfrage 2025: Hier fehlen die meisten Lehrkräfte – Schule für Schule](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-2025-hier-fehlen-am-meisten-lehrkraefte-datenanalyse-und-interakive-karte/)
 
-**Der Tagesspiegel** · March 2025
+**Der Tagesspiegel** · März 2025
 
 Interaktive Karte und Schulprofile, die für jede Berliner Schule Lehrkräftemangel, Vertretungsquoten und Schüler-Lehrer-Relation ausweisen; filterbar nach Bezirk und Schulart, mit direkter Vergleichsfunktion.
 
@@ -40,13 +40,13 @@ Die datenjournalistische SZ-Analyse wertet systematisch rund 1.500 Redebeiträge
 
 ### [Die Millionen, die gingen](https://www.zeit.de/politik/deutschland/2019-05/ost-west-wanderung-abwanderung-ostdeutschland-umzug)
 
-**DIE ZEIT** · February 2019
+**DIE ZEIT** · Februar 2019
 
 Langzeitvisualisierung zur Abwanderung aus Mittel- und Osteuropa seit den 1990er/2000er-Jahren: Karten und Diagramme zeigen, welche Regionen besonders viele Menschen verloren, welche Städte profitierten und welche Folgen das für Demografie und Arbeitsmarkt hat.
 
 ### [Todesopfer rechter Gewalt: Wieso fehlen 86 Tote in den Zahlen?](https://www.zeit.de/gesellschaft/2025-07/todesopfer-rechter-gewalt-faelle-statistik-personen) 🔒
 
-**DIE ZEIT** · July 2025 · **Paywall (Z+)**
+**DIE ZEIT** · Juli 2025 · **Paywall (Z+)**
 
 Langzeitdatensatz und Visualisierungen zu Todesopfern rechter Gewalt seit 1990; Abgleich offizieller Statistiken mit Recherchen von Zivilgesellschaft und Medien deckt systematische Erfassungslücken auf.
 
@@ -54,7 +54,7 @@ Langzeitdatensatz und Visualisierungen zu Todesopfern rechter Gewalt seit 1990; 
 
 ### [Berliner Hausnummern: Zickzack verdrängt Hufeisen](https://hausnummern.tagesspiegel.de/)
 
-**Der Tagesspiegel** · October 2016
+**Der Tagesspiegel** · Oktober 2016
 
 Die interaktive Karte zeigt Berlins Straßennetz farbcodiert nach dem Nummerierungsschema: rote Linien markieren Hufeisen‑verlaufende Hausnummern, blaue Linien den Zickzack‑Modus.
 
@@ -138,7 +138,7 @@ Stündlich aktualisierte Karte zeigt bei Hitzewellen, wo es am erträglichsten i
 
 ### [Partez en vacances à l'étranger sans quitter l'Hexagone avec notre carte des villes homonymes](https://www.lemonde.fr/les-decodeurs/article/2023/07/10/partez-en-vacances-a-l-etranger-sans-quitter-l-hexagone-avec-notre-carte-des-villes-homonymes_6181306_4355770.html)
 
-**Le Monde** · July 2023
+**Le Monde** · Juli 2023
 
 Verspielte, datengetriebene Karte gleichnamiger Städte/Gemeinden in Frankreich: per Suche und Zoom navigierbar, um »Reisen« zu Namensvettern quer durchs Land zu inszenieren.
 
@@ -156,7 +156,7 @@ Interaktives Tool findet passende Wohnorte in Deutschland nach individuellen Kri
 
 ### [Welcher Stadtteil passt zu mir?](https://www.zeit.de/zeit-magazin/2025-06/stadtteile-grossstaedte-wohnen-deutschland-lebensqualitaet) 🔒
 
-**DIE ZEIT** · June 2025 · **Paywall (Z+)**
+**DIE ZEIT** · Juni 2025 · **Paywall (Z+)**
 
 Durchsucht rund 3.000 Stadtteile in 79 Großstädten nach individuellen Präferenzen (Preise, Erreichbarkeit, Umfeld); zeigt profilierte Vergleiche und Alternativen.
 
@@ -212,7 +212,7 @@ Macht transparent, wo EU-Fördergelder landen und welche Betriebe profitieren �
 
 ### [15-Minuten-Stadt: Wo in Deutschland die Wege am kürzesten sind](https://www.zeit.de/wirtschaft/2025-07/15-minuten-stadt-raumforschung-stadtplanung-alltagswege-daten) 🔒
 
-**DIE ZEIT** · July 2025 · **Paywall (Z+)**
+**DIE ZEIT** · Juli 2025 · **Paywall (Z+)**
 
 Analyse der Alltagswege-Erreichbarkeit in deutschen Städten und Gemeinden; interaktive Karte zeigt, wo Supermärkte, Schulen, Ärzte und ÖPNV innerhalb von 15 Minuten zu Fuß oder per Rad erreichbar sind.
 
@@ -220,7 +220,7 @@ Analyse der Alltagswege-Erreichbarkeit in deutschen Städten und Gemeinden; inte
 
 ### [Wir schalten ab, sie heizen hoch](https://www.zeit.de/wirtschaft/2021-12/kohlekraftwerke-co2-emissionen-kohlestrom-klimawandel)
 
-**DIE ZEIT** · December 2021
+**DIE ZEIT** · Dezember 2021
 
 Interaktive Weltkarte zu Kohlekraftwerken mit Status (geplant, im Bau, in Betrieb, stillgelegt) und installierter Leistung; zeigt, wie der deutsche Ausstieg kontrastiert mit Neubau- und Ausbauplänen in anderen Weltregionen.
 
@@ -250,7 +250,7 @@ Vergleicht 79 Großstädte anhand Vegetations-Indizes aus Satellitenbildern – 
 
 ### [Nutzung der Meere: Wo dunkle Flotten die Ozeane ausbeuten](https://www.zeit.de/wissen/2024-01/nutzung-meere-fischerei-oelfrachter-transportschiffe)
 
-**DIE ZEIT** · January 2024
+**DIE ZEIT** · Januar 2024
 
 Satelliten-/AIS-Daten machen die „unsichtbare" Nutzung der Meere sichtbar – von industrieller Fischerei über Tanker bis Eingriffe in Schutzgebiete; zeigt Machtverschiebungen und Regulierungslücken.
 
@@ -262,7 +262,7 @@ Deutschlandkarte zum Photovoltaik-Ausbau bis auf Gemeindeebene; zeigt regionale 
 
 ### [Lärm in deutschen Städten: Wo Lärm krank macht](https://www.zeit.de/mobilitaet/2024-02/laerm-deutsche-staedte-schlafen-gesundheit-daten) 🔒
 
-**DIE ZEIT** · February 2024 · **Paywall (Z+)**
+**DIE ZEIT** · Februar 2024 · **Paywall (Z+)**
 
 Hausblock-genaue Lärmbelastung in 55 deutschen Städten; interaktive Karte zeigt Dezibel-Werte, Gesundheitsrisiken und stille Gebiete – mit Adresssuche und Vergleichsfunktion.
 
