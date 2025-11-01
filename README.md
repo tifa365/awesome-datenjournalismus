@@ -31,41 +31,17 @@ Interaktive Karte und Schulprofile, die für jede Berliner Schule Lehrkräfteman
 
 ## Politics
 
-### [Darüber spricht der Bundestag](https://www.zeit.de/politik/deutschland/2019-09/bundestag-jubilaeum-70-jahre-parlament-reden-woerter-sprache-wandel#s=doktorarbeit)
-
-**DIE ZEIT** · September 2019
-
-DIE ZEIT hat alle Bundestagsplenarprotokolle seit 1949 digitalisiert und zeigt in interaktiven Grafiken, wie Wort‑ und Themen­trends im Parlament verlaufen.
-
 ### [Das gespaltene Parlament](https://www.sueddeutsche.de/projekte/artikel/politik/die-afd-im-bundestag-e362724/)
 
 **Süddeutsche Zeitung** · August 2019
 
 Die datenjournalistische SZ-Analyse wertet systematisch rund 1.500 Redebeiträge und offizielle Plenarprotokolle aus, quantifiziert Häufigkeit und Richtung von Lachen, Applaus und Zwischenrufen je Fraktion und visualisiert diese in interaktiven Grafiken. So zeigt sie, wie die AfD mit synchronem Klatschen, aggressivem Lachen und massenhaften Unterbrechungen gezielt Spaltung erzeugt und das Debattenklima prägt.
 
-### [Berlin sieht schwarz. Die neuen politischen Grenzen der Hauptstadt](https://interaktiv.tagesspiegel.de/lab/berlin-sieht-schwarz-die-neuen-politischen-grenzen-der-hauptstadt-wahl-wiederholung-abgeordnetenhaus-2023/)
-
-**Der Tagesspiegel**
-
-Analyse auf Karten- und Kiezebene, die aktuelle Wahlergebnisse mit Sozial- und Strukturmerkmalen überblendet und so neue politische Trennlinien zwischen Innenstadt und Außenbezirken sichtbar macht.
-
 ### [Die Millionen, die gingen](https://www.zeit.de/politik/deutschland/2019-05/ost-west-wanderung-abwanderung-ostdeutschland-umzug)
 
 **DIE ZEIT** · February 2019
 
 Langzeitvisualisierung zur Abwanderung aus Mittel- und Osteuropa seit den 1990er/2000er-Jahren: Karten und Diagramme zeigen, welche Regionen besonders viele Menschen verloren, welche Städte profitierten und welche Folgen das für Demografie und Arbeitsmarkt hat.
-
-### [Die neuen Farben Europas](https://www.zeit.de/politik/ausland/2019-07/europawahl-gemeinden-eu-mitgliedsstaaten-ergebnisse-analyse)
-
-**DIE ZEIT** · February 2019
-
-Großformatige Karten- und Diagrammstrecke, die die politische Landkarte Europas nach Parteienfamilien und deren Verschiebungen der letzten Jahre zeichnet – mit Ländervergleichen, Zeitachsen und kurzen Länderprofilen.
-
-### [Phantomgrenzen](https://www.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen)
-
-**DIE ZEIT** · December 2024
-
-Datenanalyse zeigt, wie historische Grenzen (DDR, Preußen, Polen) bis heute Wahlergebnisse und politische Präferenzen prägen – mit interaktiven Karten und Overlay-Vergleichen.
 
 ### [Todesopfer rechter Gewalt: Wieso fehlen 86 Tote in den Zahlen?](https://www.zeit.de/gesellschaft/2025-07/todesopfer-rechter-gewalt-faelle-statistik-personen) 🔒
 
@@ -105,7 +81,7 @@ Auf offenen Daten basierende Übersicht zu Demonstrationen in Berlin; aus IFG-An
 
 Recherche-Karte entlang des früheren Mauerstreifens: zeigt Flurstücke, Eigentümerwechsel und heutige Bau- und Verkaufsprojekte – und wie Bodenwertgewinne auf ehemals staatlichem Gelände realisiert wurden.
 
-### [Eine Karte aller Berliner Mieterinitiativen und Beratungsstellen](https://digitalpresent.tagesspiegel.de/karte-der-berliner-mieterinitiativen)
+### [Eine Karte aller Berliner Mieterinitiativen und Beratungsstellen](https://digitalpresent.tagesspiegel.de/kontraste/berliner_mieterinitiativen/)
 
 **Der Tagesspiegel**
 
@@ -195,7 +171,7 @@ Hausblock-genaue Lärmbelastung in 55 deutschen Städten; interaktive Karte zeig
 
 ## Technology
 
-### [In diesen Kiezen gibt es die meisten Autos](https://interaktiv.tagesspiegel.de/lab/autokarte-berlin-in-diesen-kiezen-gibt-es-die-meisten-autos/)
+### [In diesen Kiezen gibt es die meisten Autos](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/)
 
 **Der Tagesspiegel**
 
