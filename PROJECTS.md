@@ -4,25 +4,27 @@ This document contains all projects in a tabular format for easy reference and c
 
 ## Summary Statistics
 
-- **Total Projects:** 53
-- **Free Access:** 46 projects
-- **Paywall (Z+):** 5 projects
+- **Total Projects:** 57
+- **Free Access:** 48 projects
+- **Paywall (Z+):** 7 projects
 - **Paywall (Tagesspiegel Plus):** 2 projects
 
 ## Projects by Publisher
 
 - **Der Tagesspiegel**: 15 projects (2 behind paywall)
 - **DER SPIEGEL**: 15 projects (all free)
-- **DIE ZEIT**: 11 projects (5 behind paywall)
+- **DIE ZEIT**: 13 projects (7 behind paywall)
 - **Berliner Morgenpost**: 9 projects (all free)
 - **Süddeutsche Zeitung**: 1 project
-- **FragDenStaat**: 1 project
+- **FragDenStaat**: 2 projects (all free)
 - **Le Monde**: 1 project
+- **Tages-Anzeiger**: 1 project
 
 ## All Projects by Publisher
 
 | Publisher | Title | Year | Paywall | Description (Short) |
 |-----------|-------|------|---------|---------------------|
+| **DIE ZEIT** | [Heizungs-Rechner: Lohnt sich eine Wärmepumpe für Ihr Haus?](https://www.zeit.de/wirtschaft/2025-10/heizungsart-rechner-preis-erdgas-waermepumpe) 🔒 | 2025 | Ja (Z+) | Interaktiver Rechner vergleicht Heizungsarten nach Kosten |
 | **DIE ZEIT** | [Die Millionen, die gingen](https://www.zeit.de/politik/deutschland/2019-05/ost-west-wanderung-abwanderung-ostdeutschland-umzug) | 2019 | Nein | Langzeitvisualisierung zur Ost-West-Wanderung seit 1991 |
 | **DIE ZEIT** | [Straßenbilder – Mozart, Marx und ein Diktator](https://www.zeit.de/feature/strassenverzeichnis-strassennamen-herkunft-deutschland-infografik) | 2018 | Nein | Durchsuchbare Datenbank von 450.000 deutschen Straßennamen |
 | **DIE ZEIT** | [Wir schalten ab, sie heizen hoch](https://www.zeit.de/wirtschaft/2021-12/kohlekraftwerke-co2-emissionen-kohlestrom-klimawandel) | 2021 | Nein | Interaktive Weltkarte zu Kohlekraftwerken weltweit |
@@ -34,6 +36,7 @@ This document contains all projects in a tabular format for easy reference and c
 | **DIE ZEIT** | [Todesopfer rechter Gewalt: Wieso fehlen 86 Tote in den Zahlen?](https://www.zeit.de/gesellschaft/2025-07/todesopfer-rechter-gewalt-faelle-statistik-personen) 🔒 | 2025 | Ja (Z+) | Langzeitdatensatz zu Todesopfern rechter Gewalt seit 1990 |
 | **DIE ZEIT** | [15-Minuten-Stadt: Wo in Deutschland die Wege am kürzesten sind](https://www.zeit.de/wirtschaft/2025-07/15-minuten-stadt-raumforschung-stadtplanung-alltagswege-daten) 🔒 | 2025 | Ja (Z+) | Erreichbarkeitsanalyse für Alltagsziele |
 | **DIE ZEIT** | [Darüber spricht der Bundestag](https://www.zeit.de/politik/deutschland/2019-09/bundestag-jubilaeum-70-jahre-parlament-reden-woerter-sprache-wandel) 🔒 | 2019 | Ja (Z+) | Durchsuchbare Aufbereitung aller Bundestags-Plenarprotokolle seit 1949 |
+| **DIE ZEIT** | [Wie viel Geld macht glücklich?](https://www.zeit.de/geld/2025-08/zufriedenheit-geld-glueck-einkommen-grenze-vergleich) 🔒 | 2025 | Ja (Z+) | Crowd-Vergleich der Geld-Glück-Balance mit anderen Leser:innen |
 | **DER SPIEGEL** | [Pendeln in Deutschland – eine persönliche Geschichte](https://cdn.www.spiegel.de/producing/wirtschaft/2018/pendler/v1/pendler.html) | 2018 | Nein | Personalisiertes Scrollytelling zu Pendlerströmen |
 | **DER SPIEGEL** | [A short history of urban design in Germany](https://interactive.spiegel.de/int/pub/nextgen_migration/wissenschaft/2019/schwarzplan/v0/pub/index.html) | 2019 | Nein | Stadtentwicklung in Deutschland als Scrollytelling |
 | **DER SPIEGEL** | [Warum wächst die Weltbevölkerung trotz sinkender Geburtenraten?](https://www.spiegel.de/gesundheit/schwangerschaft/warum-waechst-die-weltbevoelkerung-bei-sinkender-geburtenquote-a-1292974.html) | - | Nein | Demografischer Trägheitseffekt erklärt |
@@ -76,5 +79,7 @@ This document contains all projects in a tabular format for easy reference and c
 | **Berliner Morgenpost** | [Wetter heute vs. Klima](https://interaktiv.morgenpost.de/wetter-klima-vergleich-heute-klimawandel/) | - | Nein | Tagesvergleich Tool |
 | **Berliner Morgenpost** | [Deutschlands grünste Großstädte](https://interaktiv.morgenpost.de/gruenste-staedte-deutschlands) | - | Nein | Satelliten-Vegetationsindex 79 Städte |
 | **Süddeutsche Zeitung** | [Das gespaltene Parlament](https://www.sueddeutsche.de/projekte/artikel/politik/die-afd-im-bundestag-e362724/) | 2019 | Nein | Analyse von Zwischenrufen und Applaus im Bundestag |
+| **FragDenStaat** | [Das Steueroasen Verzeichnis](https://steueroasen.watch/) | 2025 | Nein | Interaktive Karte deutscher Steueroasen mit Unternehmensstandorten (mit ZDF Magazin Royale) |
 | **FragDenStaat** | [Demo-Hauptstadt Berlin](https://fragdenstaat.de/dossier/demo-hauptstadt-berlin/) | - | Nein | Demo-Datensatz aus IFG-Anfragen |
 | **Le Monde** | [Partez en vacances à l'étranger sans quitter l'Hexagone avec notre carte des villes homonymes](https://www.lemonde.fr/les-decodeurs/article/2023/07/10/partez-en-vacances-a-l-etranger-sans-quitter-l-hexagone-avec-notre-carte-des-villes-homonymes_6181306_4355770.html) | 2023 | Nein | Gleichnamige Orte in Frankreich |
+| **Tages-Anzeiger** | [Dialekt-Test: Wir wissen, woher Sie stammen](https://www.tagesanzeiger.ch/dialekt-test-wir-wissen-woher-sie-stammen-jetzt-noch-genauer-205060715129) | 2024 | Nein | Dialekt-Kalkulator errät Herkunft im deutschsprachigen Raum |

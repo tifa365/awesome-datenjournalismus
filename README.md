@@ -15,8 +15,15 @@ A collection of the most interesting and impactful data journalism projects from
 - [Süddeutsche Zeitung](#süddeutsche-zeitung)
 - [FragDenStaat](#fragdenstaat)
 - [Le Monde](#le-monde)
+- [Tages-Anzeiger](#tages-anzeiger)
 
 ## DIE ZEIT
+
+### [Heizungs-Rechner: Lohnt sich eine Wärmepumpe für Ihr Haus?](https://www.zeit.de/wirtschaft/2025-10/heizungsart-rechner-preis-erdgas-waermepumpe) 🔒
+
+**Oktober 2025 · Paywall (Z+)**
+
+Interaktiver Rechner vergleicht Heizungsarten (Wärmepumpe, Erdgas, Öl) hinsichtlich Anschaffungskosten und langfristiger Wirtschaftlichkeit – individuell konfigurierbar nach Haustyp, Dämmung und regionalem Energiepreis; Quelle: RWI, eigene Berechnungen.
 
 ### [Die Millionen, die gingen](https://www.zeit.de/politik/deutschland/2019-05/ost-west-wanderung-abwanderung-ostdeutschland-umzug)
 
@@ -83,6 +90,12 @@ Analyse der Alltagswege-Erreichbarkeit in deutschen Städten und Gemeinden; inte
 **2019 · Paywall (Z+)**
 
 Eine durchsuchbare Aufbereitung aller Bundestags-Plenarprotokolle seit 1949. Interaktive Visualisierungen zeigen Wort- und Thementrends über Jahrzehnte, inkl. Partei- und Gender-Vergleichen.
+
+### [Wie viel Geld macht glücklich?](https://www.zeit.de/geld/2025-08/zufriedenheit-geld-glueck-einkommen-grenze-vergleich) 🔒
+
+**August 2025 · Paywall (Z+)**
+
+Interaktives Tool zum Vergleich der eigenen Geld-Glück-Balance mit anderen Leser:innen. Untersucht, ob mehr Geld tatsächlich zufriedener macht und wo die persönliche Sättigungsgrenze liegt.
 
 ## DER SPIEGEL
 
@@ -280,6 +293,12 @@ Die datenjournalistische SZ-Analyse wertet systematisch rund 1.500 Redebeiträge
 
 ## FragDenStaat
 
+### [Das Steueroasen Verzeichnis](https://steueroasen.watch/)
+
+**2025 · In Zusammenarbeit mit ZDF Magazin Royale**
+
+Interaktive Karte von 37 deutschen Gemeinden mit niedrigen Gewerbesteuersätzen. Visualisiert alle dort gemeldeten Unternehmen – von DAX-Töchtern bis Promi-Holdings. Basiert auf Handelsregister-Daten mit North Data.
+
 ### [Demo-Hauptstadt Berlin](https://fragdenstaat.de/dossier/demo-hauptstadt-berlin/)
 
 Auf offenen Daten basierende Übersicht zu Demonstrationen in Berlin; aus IFG-Anfragen zusammengetragene Termine, Orte und Veranstalter als Karte und Datensatz mit Download-Option.
@@ -291,6 +310,14 @@ Auf offenen Daten basierende Übersicht zu Demonstrationen in Berlin; aus IFG-An
 **Juli 2023**
 
 Verspielte, datengetriebene Karte gleichnamiger Städte/Gemeinden in Frankreich: per Suche und Zoom navigierbar, um »Reisen« zu Namensvettern quer durchs Land zu inszenieren.
+
+## Tages-Anzeiger
+
+### [Dialekt-Test: Wir wissen, woher Sie stammen](https://www.tagesanzeiger.ch/dialekt-test-wir-wissen-woher-sie-stammen-jetzt-noch-genauer-205060715129)
+
+**Juni 2024**
+
+Spielerischer Dialekt-Kalkulator errät anhand von Wortschatz-Fragen die Herkunft im deutschsprachigen Raum (Deutschland, Österreich, Schweiz, Liechtenstein, Luxemburg, Ostbelgien, Südtirol). Basiert auf Daten von über 800.000 Teilnehmenden aus 23.000+ Ortschaften.
 
 ## Contributing
 
