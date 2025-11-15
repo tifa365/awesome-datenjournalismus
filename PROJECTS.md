@@ -79,7 +79,7 @@ This document contains all projects in a tabular format for easy reference and c
 | **Berliner Morgenpost** | [Wetter heute vs. Klima](https://interaktiv.morgenpost.de/wetter-klima-vergleich-heute-klimawandel/) | - | Nein | Tagesvergleich Tool |
 | **Berliner Morgenpost** | [Deutschlands grünste Großstädte](https://interaktiv.morgenpost.de/gruenste-staedte-deutschlands) | - | Nein | Satelliten-Vegetationsindex 79 Städte |
 | **Süddeutsche Zeitung** | [Das gespaltene Parlament](https://www.sueddeutsche.de/projekte/artikel/politik/die-afd-im-bundestag-e362724/) | 2019 | Nein | Analyse von Zwischenrufen und Applaus im Bundestag |
-| **FragDenStaat** | [Das Steueroasen Verzeichnis](https://steueroasen.watch/) | 2025 | Nein | Interaktive Karte deutscher Steueroasen mit Unternehmensstandorten (mit ZDF Magazin Royale) |
-| **FragDenStaat** | [Demo-Hauptstadt Berlin](https://fragdenstaat.de/dossier/demo-hauptstadt-berlin/) | - | Nein | Demo-Datensatz aus IFG-Anfragen |
+| **FragDenStaat** | 🏝️ [Das Steueroasen Verzeichnis](https://steueroasen.watch/) | 2025 | Nein | Interaktive Karte deutscher Steueroasen mit Unternehmensstandorten (mit ZDF Magazin Royale) |
+| **FragDenStaat** | [Demo-Hauptstadt Berlin](https://fragdenstaat.de/dossier/demo-hauptstadt-berlin/) | 2020 | Nein | Demo-Datensatz aus IFG-Anfragen |
 | **Le Monde** | [Partez en vacances à l'étranger sans quitter l'Hexagone avec notre carte des villes homonymes](https://www.lemonde.fr/les-decodeurs/article/2023/07/10/partez-en-vacances-a-l-etranger-sans-quitter-l-hexagone-avec-notre-carte-des-villes-homonymes_6181306_4355770.html) | 2023 | Nein | Gleichnamige Orte in Frankreich |
 | **Tages-Anzeiger** | [Dialekt-Test: Wir wissen, woher Sie stammen](https://www.tagesanzeiger.ch/dialekt-test-wir-wissen-woher-sie-stammen-jetzt-noch-genauer-205060715129) | 2024 | Nein | Dialekt-Kalkulator errät Herkunft im deutschsprachigen Raum |
