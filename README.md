@@ -113,13 +113,19 @@ Scrollytelling erzählt Stadtentwicklung in Deutschland über Karten und Pläne 
 
 ### 👶 [Warum wächst die Weltbevölkerung trotz sinkender Geburtenraten?](https://www.spiegel.de/gesundheit/schwangerschaft/warum-waechst-die-weltbevoelkerung-bei-sinkender-geburtenquote-a-1292974.html)
 
+**2019**
+
 Erklärt den demografischen „Trägheitseffekt" (Bevölkerungswelle) anhand Kohortenpyramiden und Regionen-Vergleichen.
 
 ### 🏥 [30 Jahre Mauerfall: Gesundheit in West und Ost](https://www.spiegel.de/gesundheit/diagnose/30-jahre-mauerfall-so-unterscheidet-sich-die-gesundheit-in-west-und-ost-a-1288102.html)
 
+**23. Oktober 2019**
+
 Visualisiert Ost-West-Unterschiede bei Lebenserwartung, Erkrankungen und Versorgung – mit Kontext zu Strukturwandel und Einkommen.
 
 ### 🌡️ [Rekord-Sommer? Wie warm war 2019 vs. 2018](https://www.spiegel.de/wissenschaft/natur/wetter-daten-rekord-sommer-wie-warm-war-2019-im-vergleich-zu-2018-a-1280048.html)
+
+**2019**
 
 Vergleicht Temperatur- und Hitzetage-Statistiken über Regionen und ordnet Wetterextreme historisch ein.
 
@@ -137,9 +143,13 @@ Automatisiert erzeugte Schusskarten visualisieren Qualität, Position und Zeitpu
 
 ### 🤝 [Freunde & Rivalen Ihres Lieblingsvereins](https://www.spiegel.de/sport/fussball/fussball-wer-sind-die-freunde-und-rivalen-ihres-lieblingsvereins-a-1219354.html)
 
+**1. November 2018**
+
 Netzwerk-Grafik zeigt Fan-Sympathien und Rivalitäten zwischen Vereinen – interaktiv erkundbar, mit Überraschungen jenseits der „offiziellen" Derbys.
 
 ### 🌾 [EU-Agrarsubventionen in Deutschland](https://www.spiegel.de/wirtschaft/soziales/eu-subventionen-landwirtschaft-erklaerung-in-karten-a-1210055.html)
+
+**2018**
 
 Macht transparent, wo EU-Fördergelder landen und welche Betriebe profitieren – inklusive regionaler Schwerpunkte und Verteilungsmuster.
 
@@ -148,6 +158,8 @@ Macht transparent, wo EU-Fördergelder landen und welche Betriebe profitieren �
 Karten und Kennzahlen zeigen Bargeld-Versorgungslücken, besonders in ländlichen Räumen nach Filialschließungen.
 
 ### 📊 [SCHUFA: So funktioniert Deutschlands einflussreichste Auskunftei](https://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html)
+
+**28. November 2018**
 
 Erklärt Score-Entstehung, typische Einflussfaktoren und Fehlerquellen – mit Beispielen und Checklisten für Verbraucher:innen.
 
@@ -179,45 +191,67 @@ Die interaktive Karte zeigt Berlins Straßennetz farbcodiert nach dem Nummerieru
 
 ### 📜 [Berlin 1928 und heute](https://1928.tagesspiegel.de/)
 
+**25. April 2016**
+
 Zeitreise-Visualisierung mit historischen Karten/Luftbildern im Vergleich zu heutigen Satellitenaufnahmen; per Schieberegler lassen sich Stadterweiterung, Nachkriegsumbau und dichte Neubauquartiere quartiergenau erkunden.
 
 ### 📢 [Demo-Atlas Berlin: Wofür wird in meiner Nachbarschaft demonstriert?](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/)
+
+**3. Oktober 2023**
 
 Karte und Timeline aller gemeldeten Versammlungen mit Filter nach Thema, Ort, Route und Zeitraum; Heatmaps und Kiezzuschnitte zeigen lokale Protestschwerpunkte.
 
 ### 🧱 [Die Profiteure des Todesstreifens](https://interaktiv.tagesspiegel.de/lab/35-jahre-mauerfall-die-profiteure-des-todesstreifen/)
 
+**8. November 2024**
+
 Recherche-Karte entlang des früheren Mauerstreifens: zeigt Flurstücke, Eigentümerwechsel und heutige Bau- und Verkaufsprojekte – und wie Bodenwertgewinne auf ehemals staatlichem Gelände realisiert wurden.
 
 ### 🏘️ [Eine Karte aller Berliner Mieterinitiativen und Beratungsstellen](https://digitalpresent.tagesspiegel.de/kontraste/berliner_mieterinitiativen/)
+
+**13. Februar 2019**
 
 Punktekarte mit Such- und Filterfunktionen, die Mieterinitiativen, Beratungsstellen und Anlaufpunkte nach Bezirk und Thema sichtbar macht – inklusive Kontaktinfos und Verlinkungen.
 
 ### 🌻 [Alle Kleingärten Berlins – und was dort entstehen könnte](https://interaktiv.tagesspiegel.de/lab/alle-kleingaerten-berlins-auf-einer-karte-und-wie-viele-wohnungen-dort-stehen-koennten/)
 
+**29. November 2024**
+
 Zeigt Kolonien mit Status, Flächen und Parzellen – macht Nutzungskonflikte zwischen Stadtgrün und Wohnungsbau quantifizierbar.
 
 ### 🌳 [Kühle Orte in Berlin](https://interaktiv.tagesspiegel.de/lab/berlins-coolste-orte-in-diesen-nachbarschaften-laesst-es-sich-trotz-rekord-hitze-aushalten/)
+
+**20. Juli 2022**
 
 Stündlich aktualisierte Karte zeigt bei Hitzewellen, wo es am erträglichsten ist (Schatten, Wind, Wasser, Parks).
 
 ### 🌡️ [Sind die Temperaturen in Deutschland gerade normal?](https://interaktiv.tagesspiegel.de/lab/temperaturmonitor-wetter-vs-klima-sind-die-temperaturen-in-deutschland-gerade-normal/)
 
+**1. September 2022**
+
 Tagesaktuelle Charts und Karten, die Temperatur-Anomalien gegenüber Klimareferenzzeiträumen vergleichen; auswählbar nach Ort/Bundesland mit Einordnung extremer Abweichungen.
 
 ### 🚙 [In diesen Kiezen gibt es die meisten Autos](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/)
+
+**4. Juli 2023**
 
 Feinräumige Karte des Pkw-Bestands pro 1.000 Einwohner bis auf Kiez/Planungsraum-Ebene; Vergleich zwischen Bezirken, Trendansichten und Hinweise auf Parkdruck und Verkehrsbelastung.
 
 ### 🚴 [Radmesser – Überholabstände beim Radfahren vermessen](https://interaktiv.tagesspiegel.de/radmesser/)
 
+**20. August 2018**
+
 Mit Ultraschall-Sensoren erfassten Freiwillige rund 17.000 Überholmanöver; die Analyse zeigt, wo Radfahrende systematisch zu eng überholt werden und hat Debatten sowie Maßnahmen angestoßen.
 
 ### 🛣️ [A100: So verändert der neue Abschnitt den Verkehr](https://interaktiv.tagesspiegel.de/lab/ein-monat-neuer-autobahn-abschnitt-so-veraendert-die-a100-den-verkehr-in-berlins-kiezen/)
 
+**29. September 2025**
+
 Vorher/Nachher-Analyse misst mit Floating-Car-Daten, wo Straßen schneller oder langsamer wurden – Gewerbegebiete profitieren, Wohnviertel verlieren.
 
 ### ✈️ [Der BER im 3D-Modell: Deswegen wurde 14 Jahre lang gebaut](https://interaktiv.tagesspiegel.de/lab/flughafen-ber-in-3d/)
+
+**17. Oktober 2020**
 
 Scroll-Story mit WebGL-Modell des Flughafens BER: Bauphasen, Brandschutz- und Lüftungssysteme sowie Planungsfehler werden räumlich erklärt; eine Chronik erläutert, wie Verzögerungen und Nachbesserungen zusammenhängen.
 
@@ -235,13 +269,13 @@ Interaktive Karte und Schulprofile, die für jede Berliner Schule Lehrkräfteman
 
 ### 🔓 [Fahrraddiebstahl in Berlin](https://interaktiv.tagesspiegel.de/lab/berlins-fahrraddiebstahl-hotspots-in-diesen-kiezen-steht-ihr-rad-besonders-gefaehrlich/index_paid.html) 🔒
 
-**Paywall (Tagesspiegel Plus)**
+**31. August 2023 · Paywall (Tagesspiegel Plus)**
 
 Heatmap und Zeitreihenanalyse zeigen Diebstahl-Hotspots nach Kiez, Tageszeit und Fahrradtyp; interaktive Karte mit Suchfunktion für die eigene Adresse.
 
 ### 🏘️ [Wie lebenswert ist mein Kiez?](https://interaktiv.tagesspiegel.de/lab/gruenflaechen-laerm-luftverschmutzung-wie-lebenswert-ist-mein-kiez-in-berlin/index_paid.html) 🔒
 
-**Paywall (Tagesspiegel Plus)**
+**27. Oktober 2022 · Paywall (Tagesspiegel Plus)**
 
 Lebensqualitäts-Index für Berliner Kieze basierend auf Grünflächen, Lärm, Luftverschmutzung und Infrastruktur; Karte mit Vergleichsfunktion und Rankings.
 
@@ -249,37 +283,55 @@ Lebensqualitäts-Index für Berliner Kieze basierend auf Grünflächen, Lärm, L
 
 ### 📸 [Berlin 1953 vs. heute](https://interaktiv.morgenpost.de/berlin-1953-2016/)
 
+**29. November 2016**
+
 Schieberegler-Vergleich historischer Luftaufnahmen mit aktuellen Orthofotos zeigt Wiederaufbau und Stadtentwicklung nach dem Krieg.
 
 ### 🏢 [So alt wohnt Berlin](https://interaktiv.morgenpost.de/so-alt-wohnt-berlin/)
+
+**2018**
 
 Karte zeigt Baualtersstruktur bis auf Block-Ebene – von Gründerzeit über Plattenbau bis zu modernen Neubauten.
 
 ### 🚇 [So tickt Berlin an deiner Linie](https://interaktiv.morgenpost.de/berlin-an-deiner-linie/)
 
+**17. Juli 2017**
+
 Entlang BVG/S-Bahn-Linien werden Sozialindikatoren (Alter, Einkommen, Demografie) vergleichbar – ein Stadtsoziologie-Blick entlang der Strecken.
 
 ### 💵 [Mietkarte Berlin – Welche Kieze sind (noch) bezahlbar?](https://interaktiv.morgenpost.de/mietkarte-berlin/)
+
+**15. Februar 2018**
 
 Schätzt den Mietkostenanteil pro PLZ und Wohnungsgröße; deckt „rote Zonen" der Überlastung auf.
 
 ### 📈 [Berliner Mieten seit 2009](https://interaktiv.morgenpost.de/berlinmieten/)
 
+**2. Februar 2016**
+
 Zeitreihen und Karten zeigen, wo sich Preise verdoppelt haben – feinräumig und verlässlich dokumentiert seit 2009.
 
 ### 🔊 [Lärmkarte Berlin – So laut ist es vor Ihrer Haustür](https://interaktiv.morgenpost.de/laermkarte-berlin/)
+
+**2018** (aktuelle Version mit 2018-Lärmkartierung)
 
 Adressgenaue Pegelkarte zeigt Belastung an Fassaden; nützlich für Wohnungssuche und Stadtplanung.
 
 ### 🌍 [Klimawandel: Wo unsere Erde unbewohnbar wird](https://interaktiv.morgenpost.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/)
 
+**4. April 2022**
+
 3D-Globus visualisiert Klimaszenarien bis 2100: tödliche Hitze, Meeresspiegelanstieg, Wasserknappheit und Stürme – nach Regionen und Zeithorizont filterbar mit IPCC-Daten.
 
 ### ☁️ [Wetter heute vs. Klima](https://interaktiv.morgenpost.de/wetter-klima-vergleich-heute-klimawandel/)
 
+**14. Juni 2023**
+
 Tool zum Vergleich des aktuellen Wetters mit historischen Klimamitteln; zeigt Abweichungen bei Temperatur, Niederschlag und Sonnenstunden für deutsche Städte.
 
 ### 🌳 [Deutschlands grünste Großstädte](https://interaktiv.morgenpost.de/gruenste-staedte-deutschlands)
+
+**10. Mai 2016**
 
 Vergleicht 79 Großstädte anhand Vegetations-Indizes aus Satellitenbildern – mit Detailansichten, Rankings und dokumentierter Methodik.
 
