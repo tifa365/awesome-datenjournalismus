@@ -195,6 +195,8 @@ Die interaktive Karte zeigt Berlins Straßennetz farbcodiert nach dem Nummerieru
 
 Zeitreise-Visualisierung mit historischen Karten/Luftbildern im Vergleich zu heutigen Satellitenaufnahmen; per Schieberegler lassen sich Stadterweiterung, Nachkriegsumbau und dichte Neubauquartiere quartiergenau erkunden.
 
+**Repositories:** [dsstio/1928](https://github.com/dsstio/1928), [dsstio/ecw2tiles](https://github.com/dsstio/ecw2tiles)
+
 ### 📢 [Demo-Atlas Berlin: Wofür wird in meiner Nachbarschaft demonstriert?](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/)
 
 **3. Oktober 2023**
