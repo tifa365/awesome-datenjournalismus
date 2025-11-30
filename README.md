@@ -338,6 +338,12 @@ Tool zum Vergleich des aktuellen Wetters mit historischen Klimamitteln; zeigt Ab
 
 Vergleicht 79 Großstädte anhand Vegetations-Indizes aus Satellitenbildern – mit Detailansichten, Rankings und dokumentierter Methodik.
 
+### ✂️ [Teile Deutschland und entdecke die Unterschiede](https://interaktiv.morgenpost.de/deutschland-teilen-deutsche-einheit-wiedervereinigung/)
+
+**29. September 2020**
+
+Interaktive Selbst-Segmentierung: Man zieht eigene Grenzen durch Deutschland und vergleicht 30 Merkmale – von Lebenserwartung über Gender Pay Gap bis Graffiti. Zeigt: Die Teilung verläuft nicht nur Ost/West, sondern auch Nord/Süd und Stadt/Land.
+
 ## Süddeutsche Zeitung
 
 ### 🏛️ [Das gespaltene Parlament](https://www.sueddeutsche.de/projekte/artikel/politik/die-afd-im-bundestag-e362724/)

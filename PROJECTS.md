@@ -4,8 +4,8 @@ This document contains all projects in a tabular format for easy reference and c
 
 ## Summary Statistics
 
-- **Total Projects:** 64
-- **Free Access:** 55 projects
+- **Total Projects:** 65
+- **Free Access:** 56 projects
 - **Paywall (Z+):** 7 projects
 - **Paywall (Tagesspiegel Plus):** 2 projects
 
@@ -14,7 +14,7 @@ This document contains all projects in a tabular format for easy reference and c
 - **Der Tagesspiegel**: 15 projects (2 behind paywall)
 - **DER SPIEGEL**: 15 projects (all free)
 - **DIE ZEIT**: 13 projects (7 behind paywall)
-- **Berliner Morgenpost**: 9 projects (all free)
+- **Berliner Morgenpost**: 10 projects (all free)
 - **Süddeutsche Zeitung**: 1 project
 - **FragDenStaat**: 2 projects (all free)
 - **Le Monde**: 1 project
@@ -79,6 +79,7 @@ This document contains all projects in a tabular format for easy reference and c
 | **Berliner Morgenpost** | [Klimawandel: Wo unsere Erde unbewohnbar wird](https://interaktiv.morgenpost.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/) | 2022 | Nein | 3D-Globus Klimaszenarien |
 | **Berliner Morgenpost** | [Wetter heute vs. Klima](https://interaktiv.morgenpost.de/wetter-klima-vergleich-heute-klimawandel/) | 2023 | Nein | Tagesvergleich Tool |
 | **Berliner Morgenpost** | [Deutschlands grünste Großstädte](https://interaktiv.morgenpost.de/gruenste-staedte-deutschlands) | 2016 | Nein | Satelliten-Vegetationsindex 79 Städte |
+| **Berliner Morgenpost** | [Teile Deutschland und entdecke die Unterschiede](https://interaktiv.morgenpost.de/deutschland-teilen-deutsche-einheit-wiedervereinigung/) | 2020 | Nein | Selbst-Segmentierung mit 30 Merkmalen |
 | **Süddeutsche Zeitung** | [Das gespaltene Parlament](https://www.sueddeutsche.de/projekte/artikel/politik/die-afd-im-bundestag-e362724/) | 2019 | Nein | Analyse von Zwischenrufen und Applaus im Bundestag |
 | **FragDenStaat** | 🏝️ [Das Steueroasen Verzeichnis](https://steueroasen.watch/) | 2025 | Nein | Interaktive Karte deutscher Steueroasen mit Unternehmensstandorten (mit ZDF Magazin Royale) |
 | **FragDenStaat** | [Demo-Hauptstadt Berlin](https://fragdenstaat.de/dossier/demo-hauptstadt-berlin/) | 2020 | Nein | Demo-Datensatz aus IFG-Anfragen |
