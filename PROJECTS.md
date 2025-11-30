@@ -4,8 +4,8 @@ This document contains all projects in a tabular format for easy reference and c
 
 ## Summary Statistics
 
-- **Total Projects:** 57
-- **Free Access:** 48 projects
+- **Total Projects:** 64
+- **Free Access:** 55 projects
 - **Paywall (Z+):** 7 projects
 - **Paywall (Tagesspiegel Plus):** 2 projects
 
@@ -19,6 +19,7 @@ This document contains all projects in a tabular format for easy reference and c
 - **FragDenStaat**: 2 projects (all free)
 - **Le Monde**: 1 project
 - **Tages-Anzeiger**: 1 project
+- **Funke Mediengruppe**: 7 projects (all free)
 
 ## All Projects by Publisher
 
@@ -83,3 +84,10 @@ This document contains all projects in a tabular format for easy reference and c
 | **FragDenStaat** | [Demo-Hauptstadt Berlin](https://fragdenstaat.de/dossier/demo-hauptstadt-berlin/) | 2020 | Nein | Demo-Datensatz aus IFG-Anfragen |
 | **Le Monde** | [Partez en vacances à l'étranger sans quitter l'Hexagone avec notre carte des villes homonymes](https://www.lemonde.fr/les-decodeurs/article/2023/07/10/partez-en-vacances-a-l-etranger-sans-quitter-l-hexagone-avec-notre-carte-des-villes-homonymes_6181306_4355770.html) | 2023 | Nein | Gleichnamige Orte in Frankreich |
 | **Tages-Anzeiger** | [Dialekt-Test: Wir wissen, woher Sie stammen](https://www.tagesanzeiger.ch/dialekt-test-wir-wissen-woher-sie-stammen-jetzt-noch-genauer-205060715129) | 2024 | Nein | Dialekt-Kalkulator errät Herkunft im deutschsprachigen Raum |
+| **Funke Mediengruppe** | [Weiße Weihnachten in ...?](https://interaktiv.waz.de/schnee-an-weihnachten/) | 2025 | Nein | Schneehistorie an Weihnachten seit 1954 für jeden Ort |
+| **Funke Mediengruppe** | [Klimawandel: Wo unsere Erde unbewohnbar wird](https://interaktiv.waz.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/) | 2022 | Nein | 3D-Globus Klimaszenarien für 2100 |
+| **Funke Mediengruppe** | [Atomkraft-Ausstieg: Bei den AKWs geht das Licht aus](https://interaktiv.waz.de/atomkraft-ausstieg-deutschland-grafiken/) | 2023 | Nein | Zeitraffer-Karte deutscher Atomausstieg seit 2000 |
+| **Funke Mediengruppe** | [Das ist der größte Bundestag aller Zeiten](https://interaktiv.waz.de/neuer-bundestag-2021-bundestagswahl-abgeordnete-parlament/) | 2021 | Nein | Repräsentationsanalyse der 736 Abgeordneten |
+| **Funke Mediengruppe** | [Deutschlandticket: Wie weit komme ich damit?](https://interaktiv.waz.de/Deutschlandticket-Bahn-Reiseziel-Karte-Streckenplaner/ab-NRW/) | 2023 | Nein | Streckenplaner zeigt Reichweite mit 49-Euro-Ticket |
+| **Funke Mediengruppe** | [Zecken-Atlas: Wo sich Zecken in Deutschland festsaugen](https://interaktiv.waz.de/zecken-atlas-deutschland/) | 2025 | Nein | FSME- und Borreliose-Risiko nach Landkreisen |
+| **Funke Mediengruppe** | [Ist das Wetter noch normal?](https://interaktiv.waz.de/wetter-klima-vergleich-heute-klimawandel/) | 2023 | Nein | Täglicher Wetter-Klima-Vergleich für Wetterstationen |

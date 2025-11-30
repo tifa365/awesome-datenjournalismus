@@ -16,6 +16,7 @@ A collection of the most interesting and impactful data journalism projects from
 - [FragDenStaat](#fragdenstaat)
 - [Le Monde](#le-monde)
 - [Tages-Anzeiger](#tages-anzeiger)
+- [Funke Mediengruppe](#funke-mediengruppe)
 
 ## DIE ZEIT
 
@@ -374,6 +375,50 @@ Verspielte, datengetriebene Karte gleichnamiger Städte/Gemeinden in Frankreich:
 **Juni 2024**
 
 Spielerischer Dialekt-Kalkulator errät anhand von Wortschatz-Fragen die Herkunft im deutschsprachigen Raum (Deutschland, Österreich, Schweiz, Liechtenstein, Luxemburg, Ostbelgien, Südtirol). Basiert auf Daten von über 800.000 Teilnehmenden aus 23.000+ Ortschaften.
+
+## Funke Mediengruppe
+
+### ❄️ [Weiße Weihnachten in ...?](https://interaktiv.waz.de/schnee-an-weihnachten/)
+
+**27. November 2025**
+
+Interaktive Visualisierung der Schneehistorie an Weihnachten für jeden Ort in Deutschland seit 1954. Zeigt pro Jahr, ob es an Heiligabend und den Feiertagen Schnee gab. Das dekorative Ergebnis lässt sich als Poster, Geschenkpapier oder Grußkarte herunterladen. Daten vom Deutschen Wetterdienst (DWD).
+
+### 🌍 [Klimawandel: Wo unsere Erde unbewohnbar wird](https://interaktiv.waz.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/)
+
+**4. April 2022**
+
+Interaktiver 3D-Globus zeigt Klimaszenarien für 2100: Regionen mit tödlicher Hitze, Wasserknappheit, steigendem Meeresspiegel und tropischen Wirbelstürmen. Bevölkerungsdichte als Säulenhöhe visualisiert. Basiert auf wissenschaftlichen Klimamodellen (RCP-Szenarien).
+
+### ☢️ [Atomkraft-Ausstieg: Bei den AKWs geht das Licht aus](https://interaktiv.waz.de/atomkraft-ausstieg-deutschland-grafiken/)
+
+**15. April 2023**
+
+Animierte Zeitraffer-Karte zeigt den deutschen Atomausstieg seit 2000: Reaktorstandorte, jährliche Energieproduktion und Entwicklung des Strommixes. Dazu Übersicht der Zwischenlager für hochradioaktiven Atommüll.
+
+### 🏛️ [Das ist der größte Bundestag aller Zeiten](https://interaktiv.waz.de/neuer-bundestag-2021-bundestagswahl-abgeordnete-parlament/)
+
+**1. Oktober 2021**
+
+Interaktive Analyse der 736 Abgeordneten nach Alter, Geschlecht, Beruf und Herkunft. Zeigt Repräsentationslücken: Frauen, Junge, Arbeitslose unterrepräsentiert; Juristen und Promovierte überrepräsentiert. Filterbare Sitzverteilung nach Fraktionen.
+
+### 🚆 [Deutschlandticket: Wie weit komme ich damit?](https://interaktiv.waz.de/Deutschlandticket-Bahn-Reiseziel-Karte-Streckenplaner/ab-NRW/)
+
+**28. April 2023**
+
+Interaktiver Streckenplaner zeigt, welche Bahnhöfe mit dem 49-Euro-Ticket bei maximal drei Umstiegen erreichbar sind. Visualisiert Reichweite ab rund 500 NRW-Bahnhöfen auf Basis von GTFS-Fahrplandaten.
+
+### 🦠 [Zecken-Atlas: Wo sich Zecken in Deutschland festsaugen](https://interaktiv.waz.de/zecken-atlas-deutschland/)
+
+**4. April 2025**
+
+Interaktive Karte zeigt FSME- und Borreliose-Risiko nach Landkreisen. Visualisiert gemeldete Erkrankungen der letzten 5 Jahre pro 100.000 Einwohner sowie die 183 offiziellen FSME-Risikogebiete. Daten vom RKI.
+
+### 🌡️ [Ist das Wetter noch normal?](https://interaktiv.waz.de/wetter-klima-vergleich-heute-klimawandel/)
+
+**14. Juni 2023**
+
+Täglich aktualisierter Wetter-Klima-Vergleich für hunderte Wetterstationen in Deutschland. Zeigt Abweichungen von Temperatur, Niederschlag, Sonnenstunden und Wind vom Durchschnitt 1991–2020. Daten vom DWD.
 
 ## Contributing
 
