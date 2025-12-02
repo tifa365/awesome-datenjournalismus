@@ -64,6 +64,14 @@ Datenjournalismus-Team des BR mit investigativen Recherchen, interaktiven Anwend
 
 ---
 
+### [SWR Data Lab](https://www.swr.de/home/swr-data-lab-team-100.html)
+
+**Südwestrundfunk**
+
+Datenjournalismus-Team des SWR mit Fokus auf investigative Datenrecherchen, interaktive Visualisierungen und regionale Analysen – u. a. Notfallrettung, Gesundheit und Infrastruktur.
+
+---
+
 ### [NDR Data](https://www.ndr.de/nachrichten/ndrdata/index.html)
 
 **Norddeutscher Rundfunk**

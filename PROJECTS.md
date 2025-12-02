@@ -4,8 +4,8 @@ This document contains all projects in a tabular format for easy reference and c
 
 ## Summary Statistics
 
-- **Total Projects:** 65
-- **Free Access:** 56 projects
+- **Total Projects:** 69
+- **Free Access:** 60 projects
 - **Paywall (Z+):** 7 projects
 - **Paywall (Tagesspiegel Plus):** 2 projects
 
@@ -20,6 +20,8 @@ This document contains all projects in a tabular format for easy reference and c
 - **Le Monde**: 1 project
 - **Tages-Anzeiger**: 1 project
 - **Funke Mediengruppe**: 7 projects (all free)
+- **SWR**: 3 projects
+- **BR24**: 1 project
 
 ## All Projects by Publisher
 
@@ -92,3 +94,7 @@ This document contains all projects in a tabular format for easy reference and c
 | **Funke Mediengruppe** | [Deutschlandticket: Wie weit komme ich damit?](https://interaktiv.waz.de/Deutschlandticket-Bahn-Reiseziel-Karte-Streckenplaner/ab-NRW/) | 2023 | Nein | Streckenplaner zeigt Reichweite mit 49-Euro-Ticket |
 | **Funke Mediengruppe** | [Zecken-Atlas: Wo sich Zecken in Deutschland festsaugen](https://interaktiv.waz.de/zecken-atlas-deutschland/) | 2025 | Nein | FSME- und Borreliose-Risiko nach Landkreisen |
 | **Funke Mediengruppe** | [Ist das Wetter noch normal?](https://interaktiv.waz.de/wetter-klima-vergleich-heute-klimawandel/) | 2023 | Nein | Täglicher Wetter-Klima-Vergleich für Wetterstationen |
+| **SWR** | 🚑 [Notfall Rettung](https://notfallrettung.swr.de) | 2024 | Nein | Investigative Datenanalyse zur Notfallrettung in 283 Rettungsdienstbereichen |
+| **SWR** | ⛽ [Diesel- und Benzinpreise aktuell](https://www.swr.de/swraktuell/diesel-und-benzinpreise-aktuell-so-tanken-sie-heute-clever-100.html) | Laufend | Nein | Echtzeit-Spritpreis-Monitoring für 15.000 Tankstellen |
+| **SWR** | 🔌 [Elektromobilität in BW: Ladesäulen-Datenanalyse](https://www.swr.de/swraktuell/baden-wuerttemberg/elektromobilitaet-stockt-in-bw-viele-ladesaeulen-kaum-elektroautos-datenanalyse-karte-102.html) | 2025 | Nein | Ladepunktdichte und Versorgungslücken nach Landkreisen in BW |
+| **BR24** | 🛗 [Bedingt barrierefrei: Die defekten Aufzüge der Deutschen Bahn](https://interaktiv.br.de/defekte-aufzuege/) | 2019 | Nein | 200 Mio. Datenpunkte zu Aufzugausfällen an deutschen Bahnhöfen |

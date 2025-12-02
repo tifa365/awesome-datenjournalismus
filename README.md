@@ -17,6 +17,8 @@ A collection of the most interesting and impactful data journalism projects from
 - [Le Monde](#le-monde)
 - [Tages-Anzeiger](#tages-anzeiger)
 - [Funke Mediengruppe](#funke-mediengruppe)
+- [SWR](#swr)
+- [BR24](#br24)
 
 ## DIE ZEIT
 
@@ -425,6 +427,34 @@ Interaktive Karte zeigt FSME- und Borreliose-Risiko nach Landkreisen. Visualisie
 **14. Juni 2023**
 
 Täglich aktualisierter Wetter-Klima-Vergleich für hunderte Wetterstationen in Deutschland. Zeigt Abweichungen von Temperatur, Niederschlag, Sonnenstunden und Wind vom Durchschnitt 1991–2020. Daten vom DWD.
+
+## SWR
+
+### 🚑 [Notfall Rettung](https://notfallrettung.swr.de)
+
+**2024**
+
+Investigatives Scrollytelling zur Rettungskette bei Herz-Kreislauf-Stillstand. Das SWR Data Lab analysiert alle 283 Rettungsdienstbereiche Deutschlands: standardisierte Notrufabfragen, Qualitätsmanagementsysteme, First-Responder-Apps, Hilfsfristen und Krankenhauserreichbarkeit. Mit exklusiven Barmer-Daten zu Reanimationserfolgen und personalisierbarer regionaler Ansicht.
+
+### ⛽ [Diesel- und Benzinpreise aktuell](https://www.swr.de/swraktuell/diesel-und-benzinpreise-aktuell-so-tanken-sie-heute-clever-100.html)
+
+**Laufend aktualisiert**
+
+Echtzeit-Monitoring der Spritpreise an rund 15.000 deutschen Tankstellen. Stündlich aktualisierte Karten und Grafiken zeigen regionale Preisunterschiede, Tagesverläufe und optimale Tankzeiten. Automatisiert generierter Artikel auf Basis der Markttransparenzstelle für Kraftstoffe.
+
+### 🔌 [Elektromobilität in BW: Ladesäulen-Datenanalyse](https://www.swr.de/swraktuell/baden-wuerttemberg/elektromobilitaet-stockt-in-bw-viele-ladesaeulen-kaum-elektroautos-datenanalyse-karte-102.html)
+
+**Juli 2025**
+
+Datenanalyse zur Ladesäulen-Infrastruktur in Baden-Württemberg. Zeigt Ladepunktdichte (durchschnittlich alle 2.000 Meter), regionale Unterschiede zwischen Ladewüsten und -oasen nach Landkreisen, Ausbaugeschwindigkeit und Versorgungslücken. Daten von Bundesnetzagentur und OpenStreetMap.
+
+## BR24
+
+### 🛗 [Bedingt barrierefrei: Die defekten Aufzüge der Deutschen Bahn](https://interaktiv.br.de/defekte-aufzuege/)
+
+**Dezember 2019**
+
+BR Data hat über 200 Millionen Datenpunkte der Deutschen Bahn ausgewertet: Betriebsstatus von mehr als 2.000 Aufzügen an 365 Tagen, alle fünf Minuten. Ergebnis: 46 % der Aufzüge fielen kumuliert eine Woche oder länger aus, 15 % sogar vier Wochen oder mehr. Interaktive Suche nach jedem Bahnhof zeigt individuelle Ausfallzeiten.
 
 ## Contributing
 
